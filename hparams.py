@@ -3,7 +3,7 @@ import tensorflow as tf
 def create_hparams(hparam_string=None,verbose=None):
 	"""Create model hyperparametes. PArse non default from the string"""
 	hparams=tf.contrib.training.HParams(
-		epochs=500,
+		epochs=100,
 		iters_per_checkpoint=500,
 		seed=1234,
 		dynamic_loss_scaling=True,
@@ -20,8 +20,8 @@ def create_hparams(hparam_string=None,verbose=None):
 		# Optimization Hyperparameters
 		num_labels=4,
 		used_aved_learning_rate=False,
-		learning_rate=1e-3,
-		weight_decay=1e-6,
+		learning_rate=1e-5,
+		weight_decay=1e-7,
 		grad_clip_thresh=1.0,
 		batch_size=16,
 		mask_padding=True,

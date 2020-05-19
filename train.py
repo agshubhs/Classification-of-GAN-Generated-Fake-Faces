@@ -147,6 +147,8 @@ def train(output_directory,log_directory,checkpoint_path,warm_start,n_gpus,rank,
 
 	for epoch in range(epoch_offset,hparams.epochs):
 		print("Epoch:{}".format(epoch))
+		accuracy=0.0
+		total=0
 		for i ,batch in enumerate(train_loader):
 			#print(batch)
 			start= time.perf_counter()
@@ -155,6 +157,9 @@ def train(output_directory,log_directory,checkpoint_path,warm_start,n_gpus,rank,
 			model.zero_grad()
 			x,y=model.parse_batch(batch)
 			y_pred=model(x)
+			_,preds=torch.max(y_pred,1)
+			accuracy += torch.sum(y==preds)
+			total +=len(preds)
 			#print('ypred',y_pred)
 			#print('y',y)
 			#print(y.type())
@@ -183,7 +188,8 @@ def train(output_directory,log_directory,checkpoint_path,warm_start,n_gpus,rank,
 
 
 			iteration +=1
-
+		accuracy=accuracy/total
+		print("Epoch {} Accuracy : {: .6f}".format(epoch,accuracy))
 
 if __name__=='__main__':
 	parser = argparse.ArgumentParser()
