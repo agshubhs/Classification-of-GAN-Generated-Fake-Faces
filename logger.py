@@ -16,4 +16,6 @@ class GANClassifierlogger(SummaryWriter):
 	def log_validation(self,reduced_loss,model,y,y_pred,iteration,accuracy):
 		self.add_scalar("validation.loss",reduced_loss,iteration)
 		self.add_scalar("accuracy",accuracy,iteration)
-		
+
+	def log_accuracy(self,epoch,accuracy):
+		self.ad_scalr("Accuracy after each epoch",accuracy,epoch)

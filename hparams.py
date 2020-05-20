@@ -4,7 +4,7 @@ def create_hparams(hparam_string=None,verbose=None):
 	"""Create model hyperparametes. PArse non default from the string"""
 	hparams=tf.contrib.training.HParams(
 		epochs=100,
-		iters_per_checkpoint=500,
+		iters_per_checkpoint=200,
 		seed=1234,
 		dynamic_loss_scaling=True,
 		fp16_run=False,

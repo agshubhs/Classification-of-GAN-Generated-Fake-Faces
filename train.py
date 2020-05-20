@@ -190,6 +190,7 @@ def train(output_directory,log_directory,checkpoint_path,warm_start,n_gpus,rank,
 			iteration +=1
 		accuracy=accuracy/total
 		print("Epoch {} Accuracy : {: .6f}".format(epoch,accuracy))
+		logger.log_accuracy(epoch,accuracy)
 
 if __name__=='__main__':
 	parser = argparse.ArgumentParser()
