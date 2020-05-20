@@ -18,4 +18,4 @@ class GANClassifierlogger(SummaryWriter):
 		self.add_scalar("accuracy",accuracy,iteration)
 
 	def log_accuracy(self,epoch,accuracy):
-		self.ad_scalr("Accuracy after each epoch",accuracy,epoch)
+		self.add_scalar("Accuracy after each epoch",accuracy,epoch)

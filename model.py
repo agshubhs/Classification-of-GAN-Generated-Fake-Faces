@@ -34,7 +34,7 @@ class GAN_Classifier(nn.Module):
 		self.model.classifier = classifier
    '''
 	  #For VGG
-		self.model=models.resnet101(pretrained=False)
+		self.model=models.resnet101(pretrained=True)
 		for param in self.model.parameters():
 			param.requires_grad = False
 		classifier_input=2048

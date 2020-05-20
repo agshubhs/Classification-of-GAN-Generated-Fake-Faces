@@ -19,7 +19,7 @@ def create_hparams(hparam_string=None,verbose=None):
 
 		# Optimization Hyperparameters
 		num_labels=4,
-		used_aved_learning_rate=False,
+		use_saved_learning_rate=False,
 		learning_rate=1e-5,
 		weight_decay=1e-7,
 		grad_clip_thresh=1.0,
