@@ -23,7 +23,7 @@ def create_hparams(hparam_string=None,verbose=None):
 		learning_rate=1e-5,
 		weight_decay=1e-7,
 		grad_clip_thresh=1.0,
-		batch_size=16,
+		batch_size=8,
 		mask_padding=True,
 		distributed_run=False		
 		)
