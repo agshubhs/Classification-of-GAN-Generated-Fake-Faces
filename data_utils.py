@@ -21,7 +21,8 @@ class TextMeLoader(torch.utils.data.Dataset):
 
 	def get_image_type_pair(self, imagepath_and_type):
 		image,srm_filter,identity=imagepath_and_type[0],imagepath_and_type[1],int(imagepath_and_type[2])
-		image=self.get_image(image)
+		image=self.get_image(srm_filter)
+		#image=self.get_image(image)
 		identity=self.get_identity(identity)
 		# return (image, srm_filter,identity)
 		return image,identity
