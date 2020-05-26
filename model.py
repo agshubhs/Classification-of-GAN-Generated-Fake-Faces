@@ -18,7 +18,8 @@ class GAN_Classifier(nn.Module):
 	def __init__(self,hparams):
 		super(GAN_Classifier,self).__init__()
 		num_labels=hparams.num_labels
-    		#For Densenet
+		'''
+		#For Densenet
 		self.model = models.densenet161(pretrained=True)
 		for param in self.model.parameters():
 			param.requires_grad = False
@@ -30,9 +31,9 @@ class GAN_Classifier(nn.Module):
                            nn.Linear(512, num_labels),
                            nn.LogSoftmax(dim=1))
 		self.model.classifier = classifier
-
-		#For resnet
 		'''
+		#For resnet
+
 		self.model=models.resnet101(pretrained=True)
 		for param in self.model.parameters():
 			param.requires_grad = False
@@ -44,7 +45,7 @@ class GAN_Classifier(nn.Module):
                            nn.Linear(512, num_labels),
                            nn.LogSoftmax(dim=1))
 		self.model.fc = classifier
-    		'''
+    		
     		#FOR VGG
 		'''
 		self.model = models.vgg19(pretrained=True)

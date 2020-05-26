@@ -1,550 +1,498 @@
-dataset/sgan1/sgan1_24.png | dataset/sgan1_filter/sgan1_24.png | 2
-dataset/sgan2/sgan2_798.png | dataset/sgan2_filter/sgan2_798.png | 3
-dataset/progan/pgan_586.png | dataset/pgan_filter/pgan_586.png | 1
-dataset/progan/pgan_228.png | dataset/pgan_filter/pgan_228.png | 1
-dataset/ffhq/ffhq129.png | dataset/ffhq_filter/ffhq129.png | 0
-dataset/sgan1/sgan1_436.png | dataset/sgan1_filter/sgan1_436.png | 2
-dataset/sgan2/sgan2_39.png | dataset/sgan2_filter/sgan2_39.png | 3
-dataset/sgan2/sgan2_643.png | dataset/sgan2_filter/sgan2_643.png | 3
-dataset/ffhq/ffhq228.png | dataset/ffhq_filter/ffhq228.png | 0
-dataset/progan/pgan_280.png | dataset/pgan_filter/pgan_280.png | 1
-dataset/sgan2/sgan2_401.png | dataset/sgan2_filter/sgan2_401.png | 3
-dataset/ffhq/ffhq828.png | dataset/ffhq_filter/ffhq828.png | 0
-dataset/sgan2/sgan2_701.png | dataset/sgan2_filter/sgan2_701.png | 3
-dataset/sgan2/sgan2_407.png | dataset/sgan2_filter/sgan2_407.png | 3
-dataset/ffhq/ffhq28.png | dataset/ffhq_filter/ffhq28.png | 0
-dataset/sgan2/sgan2_848.png | dataset/sgan2_filter/sgan2_848.png | 3
-dataset/sgan1/sgan1_428.png | dataset/sgan1_filter/sgan1_428.png | 2
-dataset/sgan2/sgan2_343.png | dataset/sgan2_filter/sgan2_343.png | 3
-dataset/sgan2/sgan2_383.png | dataset/sgan2_filter/sgan2_383.png | 3
-dataset/progan/pgan_430.png | dataset/pgan_filter/pgan_430.png | 1
-dataset/progan/pgan_989.png | dataset/pgan_filter/pgan_989.png | 1
-dataset/ffhq/ffhq469.png | dataset/ffhq_filter/ffhq469.png | 0
-dataset/progan/pgan_1039.png | dataset/pgan_filter/pgan_1039.png | 1
-dataset/ffhq/ffhq287.png | dataset/ffhq_filter/ffhq287.png | 0
-dataset/progan/pgan_268.png | dataset/pgan_filter/pgan_268.png | 1
-dataset/sgan2/sgan2_309.png | dataset/sgan2_filter/sgan2_309.png | 3
-dataset/ffhq/ffhq6.png | dataset/ffhq_filter/ffhq6.png | 0
-dataset/ffhq/ffhq184.png | dataset/ffhq_filter/ffhq184.png | 0
-dataset/sgan2/sgan2_664.png | dataset/sgan2_filter/sgan2_664.png | 3
-dataset/sgan1/sgan1_458.png | dataset/sgan1_filter/sgan1_458.png | 2
-dataset/sgan1/sgan1_665.png | dataset/sgan1_filter/sgan1_665.png | 2
-dataset/ffhq/ffhq69.png | dataset/ffhq_filter/ffhq69.png | 0
-dataset/sgan2/sgan2_629.png | dataset/sgan2_filter/sgan2_629.png | 3
-dataset/sgan1/sgan1_606.png | dataset/sgan1_filter/sgan1_606.png | 2
-dataset/progan/pgan_633.png | dataset/pgan_filter/pgan_633.png | 1
-dataset/ffhq/ffhq151.png | dataset/ffhq_filter/ffhq151.png | 0
-dataset/sgan2/sgan2_939.png | dataset/sgan2_filter/sgan2_939.png | 3
-dataset/ffhq/ffhq305.png | dataset/ffhq_filter/ffhq305.png | 0
-dataset/sgan1/sgan1_946.png | dataset/sgan1_filter/sgan1_946.png | 2
-dataset/ffhq/ffhq589.png | dataset/ffhq_filter/ffhq589.png | 0
-dataset/progan/pgan_917.png | dataset/pgan_filter/pgan_917.png | 1
-dataset/sgan2/sgan2_909.png | dataset/sgan2_filter/sgan2_909.png | 3
-dataset/progan/pgan_241.png | dataset/pgan_filter/pgan_241.png | 1
-dataset/sgan1/sgan1_877.png | dataset/sgan1_filter/sgan1_877.png | 2
-dataset/ffhq/ffhq259.png | dataset/ffhq_filter/ffhq259.png | 0
-dataset/sgan1/sgan1_427.png | dataset/sgan1_filter/sgan1_427.png | 2
-dataset/sgan1/sgan1_847.png | dataset/sgan1_filter/sgan1_847.png | 2
-dataset/ffhq/ffhq192.png | dataset/ffhq_filter/ffhq192.png | 0
-dataset/sgan1/sgan1_991.png | dataset/sgan1_filter/sgan1_991.png | 2
-dataset/ffhq/ffhq688.png | dataset/ffhq_filter/ffhq688.png | 0
-dataset/progan/pgan_747.png | dataset/pgan_filter/pgan_747.png | 1
-dataset/progan/pgan_858.png | dataset/pgan_filter/pgan_858.png | 1
-dataset/ffhq/ffhq738.png | dataset/ffhq_filter/ffhq738.png | 0
-dataset/sgan2/sgan2_450.png | dataset/sgan2_filter/sgan2_450.png | 3
-dataset/ffhq/ffhq971.png | dataset/ffhq_filter/ffhq971.png | 0
-dataset/sgan2/sgan2_42.png | dataset/sgan2_filter/sgan2_42.png | 3
-dataset/ffhq/ffhq339.png | dataset/ffhq_filter/ffhq339.png | 0
-dataset/sgan1/sgan1_657.png | dataset/sgan1_filter/sgan1_657.png | 2
-dataset/ffhq/ffhq425.png | dataset/ffhq_filter/ffhq425.png | 0
-dataset/sgan1/sgan1_818.png | dataset/sgan1_filter/sgan1_818.png | 2
-dataset/sgan1/sgan1_184.png | dataset/sgan1_filter/sgan1_184.png | 2
-dataset/progan/pgan_34.png | dataset/pgan_filter/pgan_34.png | 1
-dataset/ffhq/ffhq303.png | dataset/ffhq_filter/ffhq303.png | 0
-dataset/ffhq/ffhq285.png | dataset/ffhq_filter/ffhq285.png | 0
-dataset/sgan2/sgan2_5.png | dataset/sgan2_filter/sgan2_5.png | 3
-dataset/sgan2/sgan2_22.png | dataset/sgan2_filter/sgan2_22.png | 3
-dataset/ffhq/ffhq773.png | dataset/ffhq_filter/ffhq773.png | 0
-dataset/sgan1/sgan1_261.png | dataset/sgan1_filter/sgan1_261.png | 2
-dataset/sgan2/sgan2_778.png | dataset/sgan2_filter/sgan2_778.png | 3
-dataset/sgan1/sgan1_827.png | dataset/sgan1_filter/sgan1_827.png | 2
-dataset/progan/pgan_602.png | dataset/pgan_filter/pgan_602.png | 1
-dataset/sgan1/sgan1_86.png | dataset/sgan1_filter/sgan1_86.png | 2
-dataset/sgan2/sgan2_698.png | dataset/sgan2_filter/sgan2_698.png | 3
-dataset/sgan2/sgan2_628.png | dataset/sgan2_filter/sgan2_628.png | 3
-dataset/progan/pgan_502.png | dataset/pgan_filter/pgan_502.png | 1
-dataset/progan/pgan_911.png | dataset/pgan_filter/pgan_911.png | 1
-dataset/sgan1/sgan1_603.png | dataset/sgan1_filter/sgan1_603.png | 2
-dataset/sgan2/sgan2_766.png | dataset/sgan2_filter/sgan2_766.png | 3
-dataset/progan/pgan_78.png | dataset/pgan_filter/pgan_78.png | 1
-dataset/sgan1/sgan1_733.png | dataset/sgan1_filter/sgan1_733.png | 2
-dataset/sgan2/sgan2_316.png | dataset/sgan2_filter/sgan2_316.png | 3
-dataset/sgan2/sgan2_569.png | dataset/sgan2_filter/sgan2_569.png | 3
-dataset/sgan2/sgan2_382.png | dataset/sgan2_filter/sgan2_382.png | 3
-dataset/sgan2/sgan2_871.png | dataset/sgan2_filter/sgan2_871.png | 3
-dataset/sgan2/sgan2_47.png | dataset/sgan2_filter/sgan2_47.png | 3
-dataset/ffhq/ffhq907.png | dataset/ffhq_filter/ffhq907.png | 0
-dataset/sgan1/sgan1_60.png | dataset/sgan1_filter/sgan1_60.png | 2
-dataset/progan/pgan_765.png | dataset/pgan_filter/pgan_765.png | 1
-dataset/progan/pgan_1013.png | dataset/pgan_filter/pgan_1013.png | 1
-dataset/ffhq/ffhq176.png | dataset/ffhq_filter/ffhq176.png | 0
-dataset/progan/pgan_58.png | dataset/pgan_filter/pgan_58.png | 1
-dataset/progan/pgan_477.png | dataset/pgan_filter/pgan_477.png | 1
-dataset/ffhq/ffhq724.png | dataset/ffhq_filter/ffhq724.png | 0
-dataset/sgan1/sgan1_80.png | dataset/sgan1_filter/sgan1_80.png | 2
-dataset/progan/pgan_217.png | dataset/pgan_filter/pgan_217.png | 1
-dataset/ffhq/ffhq726.png | dataset/ffhq_filter/ffhq726.png | 0
-dataset/progan/pgan_575.png | dataset/pgan_filter/pgan_575.png | 1
-dataset/sgan2/sgan2_744.png | dataset/sgan2_filter/sgan2_744.png | 3
-dataset/sgan1/sgan1_69.png | dataset/sgan1_filter/sgan1_69.png | 2
-dataset/sgan1/sgan1_334.png | dataset/sgan1_filter/sgan1_334.png | 2
-dataset/sgan2/sgan2_100.png | dataset/sgan2_filter/sgan2_100.png | 3
-dataset/sgan2/sgan2_552.png | dataset/sgan2_filter/sgan2_552.png | 3
-dataset/sgan2/sgan2_115.png | dataset/sgan2_filter/sgan2_115.png | 3
-dataset/ffhq/ffhq959.png | dataset/ffhq_filter/ffhq959.png | 0
-dataset/sgan1/sgan1_913.png | dataset/sgan1_filter/sgan1_913.png | 2
-dataset/progan/pgan_165.png | dataset/pgan_filter/pgan_165.png | 1
-dataset/ffhq/ffhq97.png | dataset/ffhq_filter/ffhq97.png | 0
-dataset/sgan2/sgan2_919.png | dataset/sgan2_filter/sgan2_919.png | 3
-dataset/progan/pgan_269.png | dataset/pgan_filter/pgan_269.png | 1
-dataset/ffhq/ffhq379.png | dataset/ffhq_filter/ffhq379.png | 0
-dataset/progan/pgan_255.png | dataset/pgan_filter/pgan_255.png | 1
-dataset/sgan1/sgan1_566.png | dataset/sgan1_filter/sgan1_566.png | 2
-dataset/progan/pgan_514.png | dataset/pgan_filter/pgan_514.png | 1
-dataset/sgan1/sgan1_875.png | dataset/sgan1_filter/sgan1_875.png | 2
-dataset/sgan2/sgan2_312.png | dataset/sgan2_filter/sgan2_312.png | 3
-dataset/sgan1/sgan1_935.png | dataset/sgan1_filter/sgan1_935.png | 2
-dataset/ffhq/ffhq81.png | dataset/ffhq_filter/ffhq81.png | 0
-dataset/ffhq/ffhq201.png | dataset/ffhq_filter/ffhq201.png | 0
-dataset/ffhq/ffhq63.png | dataset/ffhq_filter/ffhq63.png | 0
-dataset/sgan1/sgan1_697.png | dataset/sgan1_filter/sgan1_697.png | 2
-dataset/progan/pgan_608.png | dataset/pgan_filter/pgan_608.png | 1
-dataset/sgan1/sgan1_312.png | dataset/sgan1_filter/sgan1_312.png | 2
-dataset/sgan2/sgan2_43.png | dataset/sgan2_filter/sgan2_43.png | 3
-dataset/sgan2/sgan2_186.png | dataset/sgan2_filter/sgan2_186.png | 3
-dataset/sgan2/sgan2_459.png | dataset/sgan2_filter/sgan2_459.png | 3
-dataset/ffhq/ffhq978.png | dataset/ffhq_filter/ffhq978.png | 0
-dataset/ffhq/ffhq655.png | dataset/ffhq_filter/ffhq655.png | 0
-dataset/sgan2/sgan2_197.png | dataset/sgan2_filter/sgan2_197.png | 3
-dataset/sgan1/sgan1_313.png | dataset/sgan1_filter/sgan1_313.png | 2
-dataset/sgan1/sgan1_976.png | dataset/sgan1_filter/sgan1_976.png | 2
-dataset/sgan1/sgan1_158.png | dataset/sgan1_filter/sgan1_158.png | 2
-dataset/progan/pgan_583.png | dataset/pgan_filter/pgan_583.png | 1
-dataset/ffhq/ffhq972.png | dataset/ffhq_filter/ffhq972.png | 0
-dataset/progan/pgan_225.png | dataset/pgan_filter/pgan_225.png | 1
-dataset/ffhq/ffhq233.png | dataset/ffhq_filter/ffhq233.png | 0
-dataset/sgan1/sgan1_426.png | dataset/sgan1_filter/sgan1_426.png | 2
-dataset/sgan2/sgan2_27.png | dataset/sgan2_filter/sgan2_27.png | 3
-dataset/sgan2/sgan2_97.png | dataset/sgan2_filter/sgan2_97.png | 3
-dataset/progan/pgan_325.png | dataset/pgan_filter/pgan_325.png | 1
-dataset/ffhq/ffhq511.png | dataset/ffhq_filter/ffhq511.png | 0
-dataset/progan/pgan_14.png | dataset/pgan_filter/pgan_14.png | 1
-dataset/ffhq/ffhq508.png | dataset/ffhq_filter/ffhq508.png | 0
-dataset/progan/pgan_546.png | dataset/pgan_filter/pgan_546.png | 1
-dataset/sgan2/sgan2_833.png | dataset/sgan2_filter/sgan2_833.png | 3
-dataset/progan/pgan_256.png | dataset/pgan_filter/pgan_256.png | 1
-dataset/progan/pgan_346.png | dataset/pgan_filter/pgan_346.png | 1
-dataset/ffhq/ffhq178.png | dataset/ffhq_filter/ffhq178.png | 0
-dataset/sgan2/sgan2_890.png | dataset/sgan2_filter/sgan2_890.png | 3
-dataset/sgan1/sgan1_58.png | dataset/sgan1_filter/sgan1_58.png | 2
-dataset/ffhq/ffhq684.png | dataset/ffhq_filter/ffhq684.png | 0
-dataset/sgan1/sgan1_219.png | dataset/sgan1_filter/sgan1_219.png | 2
-dataset/sgan2/sgan2_543.png | dataset/sgan2_filter/sgan2_543.png | 3
-dataset/sgan1/sgan1_210.png | dataset/sgan1_filter/sgan1_210.png | 2
-dataset/progan/pgan_650.png | dataset/pgan_filter/pgan_650.png | 1
-dataset/sgan2/sgan2_173.png | dataset/sgan2_filter/sgan2_173.png | 3
-dataset/sgan1/sgan1_492.png | dataset/sgan1_filter/sgan1_492.png | 2
-dataset/sgan2/sgan2_683.png | dataset/sgan2_filter/sgan2_683.png | 3
-dataset/sgan2/sgan2_745.png | dataset/sgan2_filter/sgan2_745.png | 3
-dataset/sgan2/sgan2_236.png | dataset/sgan2_filter/sgan2_236.png | 3
-dataset/sgan1/sgan1_555.png | dataset/sgan1_filter/sgan1_555.png | 2
-dataset/sgan2/sgan2_187.png | dataset/sgan2_filter/sgan2_187.png | 3
-dataset/progan/pgan_286.png | dataset/pgan_filter/pgan_286.png | 1
-dataset/progan/pgan_687.png | dataset/pgan_filter/pgan_687.png | 1
-dataset/sgan1/sgan1_279.png | dataset/sgan1_filter/sgan1_279.png | 2
-dataset/sgan2/sgan2_870.png | dataset/sgan2_filter/sgan2_870.png | 3
-dataset/sgan2/sgan2_783.png | dataset/sgan2_filter/sgan2_783.png | 3
-dataset/progan/pgan_461.png | dataset/pgan_filter/pgan_461.png | 1
-dataset/progan/pgan_1060.png | dataset/pgan_filter/pgan_1060.png | 1
-dataset/ffhq/ffhq878.png | dataset/ffhq_filter/ffhq878.png | 0
-dataset/sgan1/sgan1_55.png | dataset/sgan1_filter/sgan1_55.png | 2
-dataset/sgan1/sgan1_874.png | dataset/sgan1_filter/sgan1_874.png | 2
-dataset/progan/pgan_668.png | dataset/pgan_filter/pgan_668.png | 1
-dataset/progan/pgan_45.png | dataset/pgan_filter/pgan_45.png | 1
-dataset/progan/pgan_189.png | dataset/pgan_filter/pgan_189.png | 1
-dataset/sgan1/sgan1_434.png | dataset/sgan1_filter/sgan1_434.png | 2
-dataset/sgan2/sgan2_461.png | dataset/sgan2_filter/sgan2_461.png | 3
-dataset/ffhq/ffhq630.png | dataset/ffhq_filter/ffhq630.png | 0
-dataset/sgan1/sgan1_328.png | dataset/sgan1_filter/sgan1_328.png | 2
-dataset/sgan1/sgan1_109.png | dataset/sgan1_filter/sgan1_109.png | 2
-dataset/progan/pgan_800.png | dataset/pgan_filter/pgan_800.png | 1
-dataset/progan/pgan_794.png | dataset/pgan_filter/pgan_794.png | 1
-dataset/sgan2/sgan2_670.png | dataset/sgan2_filter/sgan2_670.png | 3
-dataset/sgan2/sgan2_506.png | dataset/sgan2_filter/sgan2_506.png | 3
-dataset/sgan2/sgan2_752.png | dataset/sgan2_filter/sgan2_752.png | 3
-dataset/progan/pgan_981.png | dataset/pgan_filter/pgan_981.png | 1
-dataset/ffhq/ffhq94.png | dataset/ffhq_filter/ffhq94.png | 0
-dataset/progan/pgan_605.png | dataset/pgan_filter/pgan_605.png | 1
-dataset/sgan1/sgan1_51.png | dataset/sgan1_filter/sgan1_51.png | 2
-dataset/sgan2/sgan2_605.png | dataset/sgan2_filter/sgan2_605.png | 3
-dataset/sgan1/sgan1_289.png | dataset/sgan1_filter/sgan1_289.png | 2
-dataset/sgan1/sgan1_977.png | dataset/sgan1_filter/sgan1_977.png | 2
-dataset/sgan1/sgan1_286.png | dataset/sgan1_filter/sgan1_286.png | 2
-dataset/sgan2/sgan2_429.png | dataset/sgan2_filter/sgan2_429.png | 3
-dataset/sgan2/sgan2_326.png | dataset/sgan2_filter/sgan2_326.png | 3
-dataset/sgan2/sgan2_788.png | dataset/sgan2_filter/sgan2_788.png | 3
-dataset/sgan2/sgan2_114.png | dataset/sgan2_filter/sgan2_114.png | 3
-dataset/sgan1/sgan1_978.png | dataset/sgan1_filter/sgan1_978.png | 2
-dataset/sgan2/sgan2_255.png | dataset/sgan2_filter/sgan2_255.png | 3
-dataset/sgan2/sgan2_249.png | dataset/sgan2_filter/sgan2_249.png | 3
-dataset/progan/pgan_183.png | dataset/pgan_filter/pgan_183.png | 1
-dataset/progan/pgan_88.png | dataset/pgan_filter/pgan_88.png | 1
-dataset/sgan2/sgan2_600.png | dataset/sgan2_filter/sgan2_600.png | 3
-dataset/sgan1/sgan1_417.png | dataset/sgan1_filter/sgan1_417.png | 2
-dataset/progan/pgan_828.png | dataset/pgan_filter/pgan_828.png | 1
-dataset/sgan1/sgan1_679.png | dataset/sgan1_filter/sgan1_679.png | 2
-dataset/ffhq/ffhq199.png | dataset/ffhq_filter/ffhq199.png | 0
-dataset/progan/pgan_25.png | dataset/pgan_filter/pgan_25.png | 1
-dataset/ffhq/ffhq953.png | dataset/ffhq_filter/ffhq953.png | 0
-dataset/ffhq/ffhq256.png | dataset/ffhq_filter/ffhq256.png | 0
-dataset/progan/pgan_273.png | dataset/pgan_filter/pgan_273.png | 1
-dataset/sgan2/sgan2_33.png | dataset/sgan2_filter/sgan2_33.png | 3
-dataset/sgan2/sgan2_330.png | dataset/sgan2_filter/sgan2_330.png | 3
-dataset/sgan1/sgan1_545.png | dataset/sgan1_filter/sgan1_545.png | 2
-dataset/progan/pgan_690.png | dataset/pgan_filter/pgan_690.png | 1
-dataset/sgan2/sgan2_699.png | dataset/sgan2_filter/sgan2_699.png | 3
-dataset/sgan1/sgan1_926.png | dataset/sgan1_filter/sgan1_926.png | 2
-dataset/progan/pgan_705.png | dataset/pgan_filter/pgan_705.png | 1
-dataset/sgan2/sgan2_339.png | dataset/sgan2_filter/sgan2_339.png | 3
-dataset/progan/pgan_689.png | dataset/pgan_filter/pgan_689.png | 1
-dataset/sgan2/sgan2_66.png | dataset/sgan2_filter/sgan2_66.png | 3
-dataset/sgan1/sgan1_835.png | dataset/sgan1_filter/sgan1_835.png | 2
-dataset/ffhq/ffhq121.png | dataset/ffhq_filter/ffhq121.png | 0
-dataset/progan/pgan_666.png | dataset/pgan_filter/pgan_666.png | 1
-dataset/ffhq/ffhq848.png | dataset/ffhq_filter/ffhq848.png | 0
-dataset/ffhq/ffhq30.png | dataset/ffhq_filter/ffhq30.png | 0
-dataset/ffhq/ffhq758.png | dataset/ffhq_filter/ffhq758.png | 0
-dataset/ffhq/ffhq629.png | dataset/ffhq_filter/ffhq629.png | 0
-dataset/progan/pgan_37.png | dataset/pgan_filter/pgan_37.png | 1
-dataset/progan/pgan_101.png | dataset/pgan_filter/pgan_101.png | 1
-dataset/ffhq/ffhq13.png | dataset/ffhq_filter/ffhq13.png | 0
-dataset/sgan1/sgan1_770.png | dataset/sgan1_filter/sgan1_770.png | 2
-dataset/sgan1/sgan1_833.png | dataset/sgan1_filter/sgan1_833.png | 2
-dataset/sgan2/sgan2_433.png | dataset/sgan2_filter/sgan2_433.png | 3
-dataset/sgan2/sgan2_787.png | dataset/sgan2_filter/sgan2_787.png | 3
-dataset/sgan1/sgan1_147.png | dataset/sgan1_filter/sgan1_147.png | 2
-dataset/progan/pgan_238.png | dataset/pgan_filter/pgan_238.png | 1
-dataset/progan/pgan_154.png | dataset/pgan_filter/pgan_154.png | 1
-dataset/ffhq/ffhq555.png | dataset/ffhq_filter/ffhq555.png | 0
-dataset/sgan1/sgan1_223.png | dataset/sgan1_filter/sgan1_223.png | 2
-dataset/sgan2/sgan2_58.png | dataset/sgan2_filter/sgan2_58.png | 3
-dataset/sgan2/sgan2_803.png | dataset/sgan2_filter/sgan2_803.png | 3
-dataset/ffhq/ffhq320.png | dataset/ffhq_filter/ffhq320.png | 0
-dataset/sgan2/sgan2_447.png | dataset/sgan2_filter/sgan2_447.png | 3
-dataset/sgan1/sgan1_768.png | dataset/sgan1_filter/sgan1_768.png | 2
-dataset/ffhq/ffhq916.png | dataset/ffhq_filter/ffhq916.png | 0
-dataset/progan/pgan_850.png | dataset/pgan_filter/pgan_850.png | 1
-dataset/sgan2/sgan2_482.png | dataset/sgan2_filter/sgan2_482.png | 3
-dataset/ffhq/ffhq334.png | dataset/ffhq_filter/ffhq334.png | 0
-dataset/progan/pgan_308.png | dataset/pgan_filter/pgan_308.png | 1
-dataset/progan/pgan_367.png | dataset/pgan_filter/pgan_367.png | 1
-dataset/sgan2/sgan2_655.png | dataset/sgan2_filter/sgan2_655.png | 3
-dataset/sgan2/sgan2_184.png | dataset/sgan2_filter/sgan2_184.png | 3
-dataset/progan/pgan_851.png | dataset/pgan_filter/pgan_851.png | 1
-dataset/sgan1/sgan1_486.png | dataset/sgan1_filter/sgan1_486.png | 2
-dataset/sgan2/sgan2_924.png | dataset/sgan2_filter/sgan2_924.png | 3
-dataset/progan/pgan_780.png | dataset/pgan_filter/pgan_780.png | 1
-dataset/progan/pgan_234.png | dataset/pgan_filter/pgan_234.png | 1
-dataset/sgan1/sgan1_955.png | dataset/sgan1_filter/sgan1_955.png | 2
-dataset/sgan1/sgan1_756.png | dataset/sgan1_filter/sgan1_756.png | 2
-dataset/ffhq/ffhq687.png | dataset/ffhq_filter/ffhq687.png | 0
-dataset/ffhq/ffhq720.png | dataset/ffhq_filter/ffhq720.png | 0
-dataset/sgan1/sgan1_728.png | dataset/sgan1_filter/sgan1_728.png | 2
-dataset/sgan1/sgan1_403.png | dataset/sgan1_filter/sgan1_403.png | 2
-dataset/ffhq/ffhq611.png | dataset/ffhq_filter/ffhq611.png | 0
-dataset/sgan1/sgan1_399.png | dataset/sgan1_filter/sgan1_399.png | 2
-dataset/progan/pgan_495.png | dataset/pgan_filter/pgan_495.png | 1
-dataset/ffhq/ffhq459.png | dataset/ffhq_filter/ffhq459.png | 0
-dataset/sgan1/sgan1_580.png | dataset/sgan1_filter/sgan1_580.png | 2
-dataset/ffhq/ffhq784.png | dataset/ffhq_filter/ffhq784.png | 0
-dataset/progan/pgan_278.png | dataset/pgan_filter/pgan_278.png | 1
-dataset/sgan1/sgan1_592.png | dataset/sgan1_filter/sgan1_592.png | 2
-dataset/sgan1/sgan1_363.png | dataset/sgan1_filter/sgan1_363.png | 2
-dataset/ffhq/ffhq393.png | dataset/ffhq_filter/ffhq393.png | 0
-dataset/ffhq/ffhq513.png | dataset/ffhq_filter/ffhq513.png | 0
-dataset/sgan1/sgan1_731.png | dataset/sgan1_filter/sgan1_731.png | 2
-dataset/progan/pgan_68.png | dataset/pgan_filter/pgan_68.png | 1
-dataset/progan/pgan_200.png | dataset/pgan_filter/pgan_200.png | 1
-dataset/sgan1/sgan1_140.png | dataset/sgan1_filter/sgan1_140.png | 2
-dataset/ffhq/ffhq284.png | dataset/ffhq_filter/ffhq284.png | 0
-dataset/sgan1/sgan1_336.png | dataset/sgan1_filter/sgan1_336.png | 2
-dataset/sgan2/sgan2_273.png | dataset/sgan2_filter/sgan2_273.png | 3
-dataset/ffhq/ffhq689.png | dataset/ffhq_filter/ffhq689.png | 0
-dataset/sgan1/sgan1_881.png | dataset/sgan1_filter/sgan1_881.png | 2
-dataset/progan/pgan_857.png | dataset/pgan_filter/pgan_857.png | 1
-dataset/ffhq/ffhq664.png | dataset/ffhq_filter/ffhq664.png | 0
-dataset/sgan2/sgan2_17.png | dataset/sgan2_filter/sgan2_17.png | 3
-dataset/sgan1/sgan1_217.png | dataset/sgan1_filter/sgan1_217.png | 2
-dataset/sgan1/sgan1_239.png | dataset/sgan1_filter/sgan1_239.png | 2
-dataset/sgan2/sgan2_979.png | dataset/sgan2_filter/sgan2_979.png | 3
-dataset/progan/pgan_510.png | dataset/pgan_filter/pgan_510.png | 1
-dataset/sgan2/sgan2_90.png | dataset/sgan2_filter/sgan2_90.png | 3
-dataset/ffhq/ffhq392.png | dataset/ffhq_filter/ffhq392.png | 0
-dataset/sgan2/sgan2_206.png | dataset/sgan2_filter/sgan2_206.png | 3
-dataset/sgan1/sgan1_617.png | dataset/sgan1_filter/sgan1_617.png | 2
-dataset/progan/pgan_360.png | dataset/pgan_filter/pgan_360.png | 1
-dataset/sgan2/sgan2_624.png | dataset/sgan2_filter/sgan2_624.png | 3
-dataset/sgan2/sgan2_51.png | dataset/sgan2_filter/sgan2_51.png | 3
-dataset/progan/pgan_890.png | dataset/pgan_filter/pgan_890.png | 1
-dataset/ffhq/ffhq49.png | dataset/ffhq_filter/ffhq49.png | 0
-dataset/sgan1/sgan1_49.png | dataset/sgan1_filter/sgan1_49.png | 2
-dataset/progan/pgan_925.png | dataset/pgan_filter/pgan_925.png | 1
-dataset/sgan2/sgan2_520.png | dataset/sgan2_filter/sgan2_520.png | 3
-dataset/progan/pgan_715.png | dataset/pgan_filter/pgan_715.png | 1
-dataset/progan/pgan_216.png | dataset/pgan_filter/pgan_216.png | 1
-dataset/sgan2/sgan2_417.png | dataset/sgan2_filter/sgan2_417.png | 3
-dataset/sgan1/sgan1_729.png | dataset/sgan1_filter/sgan1_729.png | 2
-dataset/sgan2/sgan2_632.png | dataset/sgan2_filter/sgan2_632.png | 3
-dataset/sgan2/sgan2_169.png | dataset/sgan2_filter/sgan2_169.png | 3
-dataset/ffhq/ffhq196.png | dataset/ffhq_filter/ffhq196.png | 0
-dataset/progan/pgan_74.png | dataset/pgan_filter/pgan_74.png | 1
-dataset/progan/pgan_67.png | dataset/pgan_filter/pgan_67.png | 1
-dataset/ffhq/ffhq356.png | dataset/ffhq_filter/ffhq356.png | 0
-dataset/progan/pgan_39.png | dataset/pgan_filter/pgan_39.png | 1
-dataset/ffhq/ffhq297.png | dataset/ffhq_filter/ffhq297.png | 0
-dataset/sgan2/sgan2_930.png | dataset/sgan2_filter/sgan2_930.png | 3
-dataset/sgan1/sgan1_295.png | dataset/sgan1_filter/sgan1_295.png | 2
-dataset/sgan1/sgan1_855.png | dataset/sgan1_filter/sgan1_855.png | 2
-dataset/sgan1/sgan1_987.png | dataset/sgan1_filter/sgan1_987.png | 2
-dataset/sgan2/sgan2_953.png | dataset/sgan2_filter/sgan2_953.png | 3
-dataset/progan/pgan_193.png | dataset/pgan_filter/pgan_193.png | 1
-dataset/sgan2/sgan2_522.png | dataset/sgan2_filter/sgan2_522.png | 3
-dataset/sgan2/sgan2_79.png | dataset/sgan2_filter/sgan2_79.png | 3
-dataset/progan/pgan_15.png | dataset/pgan_filter/pgan_15.png | 1
-dataset/sgan1/sgan1_278.png | dataset/sgan1_filter/sgan1_278.png | 2
-dataset/sgan2/sgan2_342.png | dataset/sgan2_filter/sgan2_342.png | 3
-dataset/progan/pgan_167.png | dataset/pgan_filter/pgan_167.png | 1
-dataset/ffhq/ffhq271.png | dataset/ffhq_filter/ffhq271.png | 0
-dataset/progan/pgan_875.png | dataset/pgan_filter/pgan_875.png | 1
-dataset/progan/pgan_324.png | dataset/pgan_filter/pgan_324.png | 1
-dataset/ffhq/ffhq837.png | dataset/ffhq_filter/ffhq837.png | 0
-dataset/progan/pgan_977.png | dataset/pgan_filter/pgan_977.png | 1
-dataset/sgan2/sgan2_874.png | dataset/sgan2_filter/sgan2_874.png | 3
-dataset/sgan1/sgan1_364.png | dataset/sgan1_filter/sgan1_364.png | 2
-dataset/sgan2/sgan2_507.png | dataset/sgan2_filter/sgan2_507.png | 3
-dataset/progan/pgan_443.png | dataset/pgan_filter/pgan_443.png | 1
-dataset/ffhq/ffhq567.png | dataset/ffhq_filter/ffhq567.png | 0
-dataset/ffhq/ffhq935.png | dataset/ffhq_filter/ffhq935.png | 0
-dataset/ffhq/ffhq456.png | dataset/ffhq_filter/ffhq456.png | 0
-dataset/sgan1/sgan1_228.png | dataset/sgan1_filter/sgan1_228.png | 2
-dataset/ffhq/ffhq683.png | dataset/ffhq_filter/ffhq683.png | 0
-dataset/sgan2/sgan2_179.png | dataset/sgan2_filter/sgan2_179.png | 3
-dataset/progan/pgan_441.png | dataset/pgan_filter/pgan_441.png | 1
-dataset/sgan1/sgan1_127.png | dataset/sgan1_filter/sgan1_127.png | 2
-dataset/sgan1/sgan1_961.png | dataset/sgan1_filter/sgan1_961.png | 2
-dataset/ffhq/ffhq244.png | dataset/ffhq_filter/ffhq244.png | 0
-dataset/progan/pgan_868.png | dataset/pgan_filter/pgan_868.png | 1
-dataset/sgan2/sgan2_65.png | dataset/sgan2_filter/sgan2_65.png | 3
-dataset/ffhq/ffhq458.png | dataset/ffhq_filter/ffhq458.png | 0
-dataset/sgan1/sgan1_889.png | dataset/sgan1_filter/sgan1_889.png | 2
-dataset/sgan1/sgan1_773.png | dataset/sgan1_filter/sgan1_773.png | 2
-dataset/progan/pgan_624.png | dataset/pgan_filter/pgan_624.png | 1
-dataset/progan/pgan_751.png | dataset/pgan_filter/pgan_751.png | 1
-dataset/sgan2/sgan2_154.png | dataset/sgan2_filter/sgan2_154.png | 3
-dataset/sgan1/sgan1_630.png | dataset/sgan1_filter/sgan1_630.png | 2
-dataset/ffhq/ffhq67.png | dataset/ffhq_filter/ffhq67.png | 0
-dataset/progan/pgan_1032.png | dataset/pgan_filter/pgan_1032.png | 1
-dataset/sgan2/sgan2_359.png | dataset/sgan2_filter/sgan2_359.png | 3
-dataset/progan/pgan_139.png | dataset/pgan_filter/pgan_139.png | 1
-dataset/sgan1/sgan1_488.png | dataset/sgan1_filter/sgan1_488.png | 2
-dataset/sgan2/sgan2_1000.png | dataset/sgan2_filter/sgan2_1000.png | 3
-dataset/progan/pgan_839.png | dataset/pgan_filter/pgan_839.png | 1
-dataset/sgan2/sgan2_705.png | dataset/sgan2_filter/sgan2_705.png | 3
-dataset/sgan2/sgan2_541.png | dataset/sgan2_filter/sgan2_541.png | 3
-dataset/sgan2/sgan2_952.png | dataset/sgan2_filter/sgan2_952.png | 3
-dataset/sgan2/sgan2_568.png | dataset/sgan2_filter/sgan2_568.png | 3
-dataset/sgan2/sgan2_736.png | dataset/sgan2_filter/sgan2_736.png | 3
-dataset/ffhq/ffhq552.png | dataset/ffhq_filter/ffhq552.png | 0
-dataset/progan/pgan_47.png | dataset/pgan_filter/pgan_47.png | 1
-dataset/sgan2/sgan2_253.png | dataset/sgan2_filter/sgan2_253.png | 3
-dataset/sgan2/sgan2_311.png | dataset/sgan2_filter/sgan2_311.png | 3
-dataset/sgan1/sgan1_388.png | dataset/sgan1_filter/sgan1_388.png | 2
-dataset/ffhq/ffhq620.png | dataset/ffhq_filter/ffhq620.png | 0
-dataset/ffhq/ffhq274.png | dataset/ffhq_filter/ffhq274.png | 0
-dataset/sgan1/sgan1_183.png | dataset/sgan1_filter/sgan1_183.png | 2
-dataset/sgan2/sgan2_660.png | dataset/sgan2_filter/sgan2_660.png | 3
-dataset/sgan1/sgan1_765.png | dataset/sgan1_filter/sgan1_765.png | 2
-dataset/sgan1/sgan1_275.png | dataset/sgan1_filter/sgan1_275.png | 2
-dataset/sgan2/sgan2_135.png | dataset/sgan2_filter/sgan2_135.png | 3
-dataset/sgan2/sgan2_971.png | dataset/sgan2_filter/sgan2_971.png | 3
-dataset/sgan1/sgan1_84.png | dataset/sgan1_filter/sgan1_84.png | 2
-dataset/sgan1/sgan1_571.png | dataset/sgan1_filter/sgan1_571.png | 2
-dataset/progan/pgan_859.png | dataset/pgan_filter/pgan_859.png | 1
-dataset/progan/pgan_711.png | dataset/pgan_filter/pgan_711.png | 1
-dataset/ffhq/ffhq4.png | dataset/ffhq_filter/ffhq4.png | 0
-dataset/sgan2/sgan2_998.png | dataset/sgan2_filter/sgan2_998.png | 3
-dataset/sgan2/sgan2_609.png | dataset/sgan2_filter/sgan2_609.png | 3
-dataset/progan/pgan_637.png | dataset/pgan_filter/pgan_637.png | 1
-dataset/sgan1/sgan1_882.png | dataset/sgan1_filter/sgan1_882.png | 2
-dataset/sgan2/sgan2_693.png | dataset/sgan2_filter/sgan2_693.png | 3
-dataset/sgan1/sgan1_512.png | dataset/sgan1_filter/sgan1_512.png | 2
-dataset/progan/pgan_563.png | dataset/pgan_filter/pgan_563.png | 1
-dataset/sgan1/sgan1_394.png | dataset/sgan1_filter/sgan1_394.png | 2
-dataset/sgan2/sgan2_246.png | dataset/sgan2_filter/sgan2_246.png | 3
-dataset/ffhq/ffhq224.png | dataset/ffhq_filter/ffhq224.png | 0
-dataset/sgan1/sgan1_108.png | dataset/sgan1_filter/sgan1_108.png | 2
-dataset/sgan1/sgan1_461.png | dataset/sgan1_filter/sgan1_461.png | 2
-dataset/sgan2/sgan2_837.png | dataset/sgan2_filter/sgan2_837.png | 3
-dataset/sgan2/sgan2_290.png | dataset/sgan2_filter/sgan2_290.png | 3
-dataset/sgan2/sgan2_288.png | dataset/sgan2_filter/sgan2_288.png | 3
-dataset/progan/pgan_703.png | dataset/pgan_filter/pgan_703.png | 1
-dataset/sgan1/sgan1_927.png | dataset/sgan1_filter/sgan1_927.png | 2
-dataset/sgan1/sgan1_569.png | dataset/sgan1_filter/sgan1_569.png | 2
-dataset/sgan1/sgan1_65.png | dataset/sgan1_filter/sgan1_65.png | 2
-dataset/progan/pgan_600.png | dataset/pgan_filter/pgan_600.png | 1
-dataset/sgan1/sgan1_543.png | dataset/sgan1_filter/sgan1_543.png | 2
-dataset/sgan1/sgan1_860.png | dataset/sgan1_filter/sgan1_860.png | 2
-dataset/sgan2/sgan2_855.png | dataset/sgan2_filter/sgan2_855.png | 3
-dataset/ffhq/ffhq211.png | dataset/ffhq_filter/ffhq211.png | 0
-dataset/ffhq/ffhq383.png | dataset/ffhq_filter/ffhq383.png | 0
-dataset/ffhq/ffhq398.png | dataset/ffhq_filter/ffhq398.png | 0
-dataset/ffhq/ffhq136.png | dataset/ffhq_filter/ffhq136.png | 0
-dataset/progan/pgan_964.png | dataset/pgan_filter/pgan_964.png | 1
-dataset/sgan1/sgan1_131.png | dataset/sgan1_filter/sgan1_131.png | 2
-dataset/progan/pgan_362.png | dataset/pgan_filter/pgan_362.png | 1
-dataset/progan/pgan_798.png | dataset/pgan_filter/pgan_798.png | 1
-dataset/ffhq/ffhq446.png | dataset/ffhq_filter/ffhq446.png | 0
-dataset/ffhq/ffhq913.png | dataset/ffhq_filter/ffhq913.png | 0
-dataset/progan/pgan_935.png | dataset/pgan_filter/pgan_935.png | 1
-dataset/progan/pgan_867.png | dataset/pgan_filter/pgan_867.png | 1
-dataset/ffhq/ffhq636.png | dataset/ffhq_filter/ffhq636.png | 0
-dataset/sgan1/sgan1_48.png | dataset/sgan1_filter/sgan1_48.png | 2
-dataset/sgan2/sgan2_340.png | dataset/sgan2_filter/sgan2_340.png | 3
-dataset/progan/pgan_353.png | dataset/pgan_filter/pgan_353.png | 1
-dataset/sgan2/sgan2_708.png | dataset/sgan2_filter/sgan2_708.png | 3
-dataset/ffhq/ffhq668.png | dataset/ffhq_filter/ffhq668.png | 0
-dataset/ffhq/ffhq772.png | dataset/ffhq_filter/ffhq772.png | 0
-dataset/ffhq/ffhq716.png | dataset/ffhq_filter/ffhq716.png | 0
-dataset/sgan2/sgan2_378.png | dataset/sgan2_filter/sgan2_378.png | 3
-dataset/ffhq/ffhq343.png | dataset/ffhq_filter/ffhq343.png | 0
-dataset/sgan2/sgan2_949.png | dataset/sgan2_filter/sgan2_949.png | 3
-dataset/progan/pgan_329.png | dataset/pgan_filter/pgan_329.png | 1
-dataset/sgan1/sgan1_759.png | dataset/sgan1_filter/sgan1_759.png | 2
-dataset/sgan2/sgan2_667.png | dataset/sgan2_filter/sgan2_667.png | 3
-dataset/progan/pgan_591.png | dataset/pgan_filter/pgan_591.png | 1
-dataset/sgan2/sgan2_390.png | dataset/sgan2_filter/sgan2_390.png | 3
-dataset/progan/pgan_691.png | dataset/pgan_filter/pgan_691.png | 1
-dataset/progan/pgan_311.png | dataset/pgan_filter/pgan_311.png | 1
-dataset/ffhq/ffhq429.png | dataset/ffhq_filter/ffhq429.png | 0
-dataset/progan/pgan_118.png | dataset/pgan_filter/pgan_118.png | 1
-dataset/ffhq/ffhq162.png | dataset/ffhq_filter/ffhq162.png | 0
-dataset/ffhq/ffhq998.png | dataset/ffhq_filter/ffhq998.png | 0
-dataset/progan/pgan_946.png | dataset/pgan_filter/pgan_946.png | 1
-dataset/sgan1/sgan1_872.png | dataset/sgan1_filter/sgan1_872.png | 2
-dataset/progan/pgan_678.png | dataset/pgan_filter/pgan_678.png | 1
-dataset/ffhq/ffhq797.png | dataset/ffhq_filter/ffhq797.png | 0
-dataset/sgan1/sgan1_570.png | dataset/sgan1_filter/sgan1_570.png | 2
-dataset/sgan1/sgan1_56.png | dataset/sgan1_filter/sgan1_56.png | 2
-dataset/sgan1/sgan1_857.png | dataset/sgan1_filter/sgan1_857.png | 2
-dataset/sgan2/sgan2_413.png | dataset/sgan2_filter/sgan2_413.png | 3
-dataset/sgan1/sgan1_46.png | dataset/sgan1_filter/sgan1_46.png | 2
-dataset/progan/pgan_387.png | dataset/pgan_filter/pgan_387.png | 1
-dataset/ffhq/ffhq238.png | dataset/ffhq_filter/ffhq238.png | 0
-dataset/ffhq/ffhq835.png | dataset/ffhq_filter/ffhq835.png | 0
-dataset/progan/pgan_595.png | dataset/pgan_filter/pgan_595.png | 1
-dataset/sgan1/sgan1_535.png | dataset/sgan1_filter/sgan1_535.png | 2
-dataset/ffhq/ffhq625.png | dataset/ffhq_filter/ffhq625.png | 0
-dataset/sgan2/sgan2_850.png | dataset/sgan2_filter/sgan2_850.png | 3
-dataset/ffhq/ffhq39.png | dataset/ffhq_filter/ffhq39.png | 0
-dataset/ffhq/ffhq164.png | dataset/ffhq_filter/ffhq164.png | 0
-dataset/sgan2/sgan2_714.png | dataset/sgan2_filter/sgan2_714.png | 3
-dataset/ffhq/ffhq241.png | dataset/ffhq_filter/ffhq241.png | 0
-dataset/ffhq/ffhq790.png | dataset/ffhq_filter/ffhq790.png | 0
-dataset/sgan1/sgan1_829.png | dataset/sgan1_filter/sgan1_829.png | 2
-dataset/sgan2/sgan2_289.png | dataset/sgan2_filter/sgan2_289.png | 3
-dataset/ffhq/ffhq857.png | dataset/ffhq_filter/ffhq857.png | 0
-dataset/progan/pgan_211.png | dataset/pgan_filter/pgan_211.png | 1
-dataset/sgan2/sgan2_972.png | dataset/sgan2_filter/sgan2_972.png | 3
-dataset/sgan2/sgan2_560.png | dataset/sgan2_filter/sgan2_560.png | 3
-dataset/sgan1/sgan1_804.png | dataset/sgan1_filter/sgan1_804.png | 2
-dataset/progan/pgan_503.png | dataset/pgan_filter/pgan_503.png | 1
-dataset/sgan2/sgan2_220.png | dataset/sgan2_filter/sgan2_220.png | 3
-dataset/sgan1/sgan1_981.png | dataset/sgan1_filter/sgan1_981.png | 2
-dataset/sgan2/sgan2_228.png | dataset/sgan2_filter/sgan2_228.png | 3
-dataset/sgan1/sgan1_519.png | dataset/sgan1_filter/sgan1_519.png | 2
-dataset/sgan1/sgan1_111.png | dataset/sgan1_filter/sgan1_111.png | 2
-dataset/sgan1/sgan1_260.png | dataset/sgan1_filter/sgan1_260.png | 2
-dataset/ffhq/ffhq516.png | dataset/ffhq_filter/ffhq516.png | 0
-dataset/sgan2/sgan2_122.png | dataset/sgan2_filter/sgan2_122.png | 3
-dataset/progan/pgan_951.png | dataset/pgan_filter/pgan_951.png | 1
-dataset/ffhq/ffhq703.png | dataset/ffhq_filter/ffhq703.png | 0
-dataset/progan/pgan_742.png | dataset/pgan_filter/pgan_742.png | 1
-dataset/sgan2/sgan2_947.png | dataset/sgan2_filter/sgan2_947.png | 3
-dataset/sgan1/sgan1_480.png | dataset/sgan1_filter/sgan1_480.png | 2
-dataset/ffhq/ffhq969.png | dataset/ffhq_filter/ffhq969.png | 0
-dataset/sgan2/sgan2_567.png | dataset/sgan2_filter/sgan2_567.png | 3
-dataset/ffhq/ffhq961.png | dataset/ffhq_filter/ffhq961.png | 0
-dataset/progan/pgan_1011.png | dataset/pgan_filter/pgan_1011.png | 1
-dataset/sgan1/sgan1_508.png | dataset/sgan1_filter/sgan1_508.png | 2
-dataset/ffhq/ffhq614.png | dataset/ffhq_filter/ffhq614.png | 0
-dataset/sgan2/sgan2_191.png | dataset/sgan2_filter/sgan2_191.png | 3
-dataset/progan/pgan_648.png | dataset/pgan_filter/pgan_648.png | 1
-dataset/progan/pgan_98.png | dataset/pgan_filter/pgan_98.png | 1
-dataset/ffhq/ffhq529.png | dataset/ffhq_filter/ffhq529.png | 0
-dataset/ffhq/ffhq753.png | dataset/ffhq_filter/ffhq753.png | 0
-dataset/sgan2/sgan2_559.png | dataset/sgan2_filter/sgan2_559.png | 3
-dataset/sgan2/sgan2_657.png | dataset/sgan2_filter/sgan2_657.png | 3
-dataset/progan/pgan_3.png | dataset/pgan_filter/pgan_3.png | 1
-dataset/progan/pgan_886.png | dataset/pgan_filter/pgan_886.png | 1
-dataset/progan/pgan_1059.png | dataset/pgan_filter/pgan_1059.png | 1
-dataset/sgan1/sgan1_971.png | dataset/sgan1_filter/sgan1_971.png | 2
-dataset/progan/pgan_604.png | dataset/pgan_filter/pgan_604.png | 1
-dataset/ffhq/ffhq188.png | dataset/ffhq_filter/ffhq188.png | 0
-dataset/ffhq/ffhq214.png | dataset/ffhq_filter/ffhq214.png | 0
-dataset/progan/pgan_846.png | dataset/pgan_filter/pgan_846.png | 1
-dataset/sgan1/sgan1_76.png | dataset/sgan1_filter/sgan1_76.png | 2
-dataset/sgan2/sgan2_640.png | dataset/sgan2_filter/sgan2_640.png | 3
-dataset/sgan2/sgan2_45.png | dataset/sgan2_filter/sgan2_45.png | 3
-dataset/progan/pgan_805.png | dataset/pgan_filter/pgan_805.png | 1
-dataset/ffhq/ffhq863.png | dataset/ffhq_filter/ffhq863.png | 0
-dataset/progan/pgan_168.png | dataset/pgan_filter/pgan_168.png | 1
-dataset/ffhq/ffhq853.png | dataset/ffhq_filter/ffhq853.png | 0
-dataset/sgan1/sgan1_540.png | dataset/sgan1_filter/sgan1_540.png | 2
-dataset/progan/pgan_456.png | dataset/pgan_filter/pgan_456.png | 1
-dataset/sgan1/sgan1_2.png | dataset/sgan1_filter/sgan1_2.png | 2
-dataset/ffhq/ffhq643.png | dataset/ffhq_filter/ffhq643.png | 0
-dataset/ffhq/ffhq137.png | dataset/ffhq_filter/ffhq137.png | 0
-dataset/ffhq/ffhq751.png | dataset/ffhq_filter/ffhq751.png | 0
-dataset/progan/pgan_829.png | dataset/pgan_filter/pgan_829.png | 1
-dataset/ffhq/ffhq90.png | dataset/ffhq_filter/ffhq90.png | 0
-dataset/sgan1/sgan1_155.png | dataset/sgan1_filter/sgan1_155.png | 2
-dataset/ffhq/ffhq35.png | dataset/ffhq_filter/ffhq35.png | 0
-dataset/sgan1/sgan1_221.png | dataset/sgan1_filter/sgan1_221.png | 2
-dataset/progan/pgan_1026.png | dataset/pgan_filter/pgan_1026.png | 1
-dataset/sgan1/sgan1_528.png | dataset/sgan1_filter/sgan1_528.png | 2
-dataset/progan/pgan_864.png | dataset/pgan_filter/pgan_864.png | 1
-dataset/sgan1/sgan1_805.png | dataset/sgan1_filter/sgan1_805.png | 2
-dataset/progan/pgan_487.png | dataset/pgan_filter/pgan_487.png | 1
-dataset/progan/pgan_235.png | dataset/pgan_filter/pgan_235.png | 1
-dataset/ffhq/ffhq130.png | dataset/ffhq_filter/ffhq130.png | 0
-dataset/sgan2/sgan2_287.png | dataset/sgan2_filter/sgan2_287.png | 3
-dataset/progan/pgan_352.png | dataset/pgan_filter/pgan_352.png | 1
-dataset/sgan2/sgan2_445.png | dataset/sgan2_filter/sgan2_445.png | 3
-dataset/ffhq/ffhq647.png | dataset/ffhq_filter/ffhq647.png | 0
-dataset/ffhq/ffhq220.png | dataset/ffhq_filter/ffhq220.png | 0
-dataset/sgan2/sgan2_975.png | dataset/sgan2_filter/sgan2_975.png | 3
-dataset/sgan1/sgan1_325.png | dataset/sgan1_filter/sgan1_325.png | 2
-dataset/sgan2/sgan2_627.png | dataset/sgan2_filter/sgan2_627.png | 3
-dataset/ffhq/ffhq800.png | dataset/ffhq_filter/ffhq800.png | 0
-dataset/progan/pgan_759.png | dataset/pgan_filter/pgan_759.png | 1
-dataset/sgan1/sgan1_254.png | dataset/sgan1_filter/sgan1_254.png | 2
-dataset/sgan1/sgan1_153.png | dataset/sgan1_filter/sgan1_153.png | 2
-dataset/sgan1/sgan1_879.png | dataset/sgan1_filter/sgan1_879.png | 2
-dataset/ffhq/ffhq609.png | dataset/ffhq_filter/ffhq609.png | 0
-dataset/sgan1/sgan1_651.png | dataset/sgan1_filter/sgan1_651.png | 2
-dataset/ffhq/ffhq658.png | dataset/ffhq_filter/ffhq658.png | 0
-dataset/ffhq/ffhq482.png | dataset/ffhq_filter/ffhq482.png | 0
-dataset/progan/pgan_475.png | dataset/pgan_filter/pgan_475.png | 1
-dataset/ffhq/ffhq584.png | dataset/ffhq_filter/ffhq584.png | 0
-dataset/progan/pgan_716.png | dataset/pgan_filter/pgan_716.png | 1
-dataset/progan/pgan_396.png | dataset/pgan_filter/pgan_396.png | 1
+dataset/pgan_/pgan__0439.png|dataset/pgan__filter/pgan__0439.png|1
+dataset/ffhq_/ffhq__0199.png|dataset/ffhq__filter/ffhq__0199.png|0
+dataset/pgan_/pgan__0099.png|dataset/pgan__filter/pgan__0099.png|1
+dataset/sgan2/sgan2_0580.png|dataset/sgan2_filter/sgan2_0580.png|3
+dataset/ffhq_/ffhq__0721.png|dataset/ffhq__filter/ffhq__0721.png|0
+dataset/sgan2/sgan2_0856.png|dataset/sgan2_filter/sgan2_0856.png|3
+dataset/sgan2/sgan2_0491.png|dataset/sgan2_filter/sgan2_0491.png|3
+dataset/pgan_/pgan__0208.png|dataset/pgan__filter/pgan__0208.png|1
+dataset/sgan1/sgan1_0263.png|dataset/sgan1_filter/sgan1_0263.png|2
+dataset/ffhq_/ffhq__0845.png|dataset/ffhq__filter/ffhq__0845.png|0
+dataset/sgan2/sgan2_0073.png|dataset/sgan2_filter/sgan2_0073.png|3
+dataset/pgan_/pgan__1005.png|dataset/pgan__filter/pgan__1005.png|1
+dataset/sgan2/sgan2_0795.png|dataset/sgan2_filter/sgan2_0795.png|3
+dataset/sgan1/sgan1_0396.png|dataset/sgan1_filter/sgan1_0396.png|2
+dataset/pgan_/pgan__0061.png|dataset/pgan__filter/pgan__0061.png|1
+dataset/sgan2/sgan2_0546.png|dataset/sgan2_filter/sgan2_0546.png|3
+dataset/sgan1/sgan1_0273.png|dataset/sgan1_filter/sgan1_0273.png|2
+dataset/sgan2/sgan2_0955.png|dataset/sgan2_filter/sgan2_0955.png|3
+dataset/pgan_/pgan__0730.png|dataset/pgan__filter/pgan__0730.png|1
+dataset/ffhq_/ffhq__0806.png|dataset/ffhq__filter/ffhq__0806.png|0
+dataset/pgan_/pgan__0140.png|dataset/pgan__filter/pgan__0140.png|1
+dataset/ffhq_/ffhq__0659.png|dataset/ffhq__filter/ffhq__0659.png|0
+dataset/pgan_/pgan__0773.png|dataset/pgan__filter/pgan__0773.png|1
+dataset/sgan1/sgan1_0824.png|dataset/sgan1_filter/sgan1_0824.png|2
+dataset/sgan2/sgan2_0504.png|dataset/sgan2_filter/sgan2_0504.png|3
+dataset/pgan_/pgan__0268.png|dataset/pgan__filter/pgan__0268.png|1
+dataset/sgan2/sgan2_0896.png|dataset/sgan2_filter/sgan2_0896.png|3
+dataset/ffhq_/ffhq__0203.png|dataset/ffhq__filter/ffhq__0203.png|0
+dataset/pgan_/pgan__0679.png|dataset/pgan__filter/pgan__0679.png|1
+dataset/sgan1/sgan1_0993.png|dataset/sgan1_filter/sgan1_0993.png|2
+dataset/ffhq_/ffhq__0197.png|dataset/ffhq__filter/ffhq__0197.png|0
+dataset/sgan1/sgan1_0084.png|dataset/sgan1_filter/sgan1_0084.png|2
+dataset/pgan_/pgan__0593.png|dataset/pgan__filter/pgan__0593.png|1
+dataset/sgan2/sgan2_0059.png|dataset/sgan2_filter/sgan2_0059.png|3
+dataset/pgan_/pgan__0277.png|dataset/pgan__filter/pgan__0277.png|1
+dataset/pgan_/pgan__0913.png|dataset/pgan__filter/pgan__0913.png|1
+dataset/sgan2/sgan2_0771.png|dataset/sgan2_filter/sgan2_0771.png|3
+dataset/pgan_/pgan__0196.png|dataset/pgan__filter/pgan__0196.png|1
+dataset/sgan1/sgan1_0015.png|dataset/sgan1_filter/sgan1_0015.png|2
+dataset/pgan_/pgan__0167.png|dataset/pgan__filter/pgan__0167.png|1
+dataset/sgan2/sgan2_0799.png|dataset/sgan2_filter/sgan2_0799.png|3
+dataset/sgan2/sgan2_0734.png|dataset/sgan2_filter/sgan2_0734.png|3
+dataset/ffhq_/ffhq__0889.png|dataset/ffhq__filter/ffhq__0889.png|0
+dataset/ffhq_/ffhq__0397.png|dataset/ffhq__filter/ffhq__0397.png|0
+dataset/sgan2/sgan2_0687.png|dataset/sgan2_filter/sgan2_0687.png|3
+dataset/ffhq_/ffhq__0880.png|dataset/ffhq__filter/ffhq__0880.png|0
+dataset/ffhq_/ffhq__0726.png|dataset/ffhq__filter/ffhq__0726.png|0
+dataset/ffhq_/ffhq__0599.png|dataset/ffhq__filter/ffhq__0599.png|0
+dataset/sgan1/sgan1_0972.png|dataset/sgan1_filter/sgan1_0972.png|2
+dataset/sgan1/sgan1_0185.png|dataset/sgan1_filter/sgan1_0185.png|2
+dataset/sgan2/sgan2_0526.png|dataset/sgan2_filter/sgan2_0526.png|3
+dataset/ffhq_/ffhq__0981.png|dataset/ffhq__filter/ffhq__0981.png|0
+dataset/sgan2/sgan2_0983.png|dataset/sgan2_filter/sgan2_0983.png|3
+dataset/sgan2/sgan2_0367.png|dataset/sgan2_filter/sgan2_0367.png|3
+dataset/sgan2/sgan2_0748.png|dataset/sgan2_filter/sgan2_0748.png|3
+dataset/pgan_/pgan__0152.png|dataset/pgan__filter/pgan__0152.png|1
+dataset/pgan_/pgan__0184.png|dataset/pgan__filter/pgan__0184.png|1
+dataset/pgan_/pgan__0355.png|dataset/pgan__filter/pgan__0355.png|1
+dataset/sgan1/sgan1_0869.png|dataset/sgan1_filter/sgan1_0869.png|2
+dataset/ffhq_/ffhq__0256.png|dataset/ffhq__filter/ffhq__0256.png|0
+dataset/sgan2/sgan2_0952.png|dataset/sgan2_filter/sgan2_0952.png|3
+dataset/ffhq_/ffhq__0344.png|dataset/ffhq__filter/ffhq__0344.png|0
+dataset/sgan1/sgan1_0071.png|dataset/sgan1_filter/sgan1_0071.png|2
+dataset/pgan_/pgan__0308.png|dataset/pgan__filter/pgan__0308.png|1
+dataset/sgan2/sgan2_0851.png|dataset/sgan2_filter/sgan2_0851.png|3
+dataset/sgan2/sgan2_0535.png|dataset/sgan2_filter/sgan2_0535.png|3
+dataset/sgan1/sgan1_0570.png|dataset/sgan1_filter/sgan1_0570.png|2
+dataset/pgan_/pgan__0749.png|dataset/pgan__filter/pgan__0749.png|1
+dataset/ffhq_/ffhq__0993.png|dataset/ffhq__filter/ffhq__0993.png|0
+dataset/pgan_/pgan__0983.png|dataset/pgan__filter/pgan__0983.png|1
+dataset/pgan_/pgan__0302.png|dataset/pgan__filter/pgan__0302.png|1
+dataset/pgan_/pgan__1034.png|dataset/pgan__filter/pgan__1034.png|1
+dataset/ffhq_/ffhq__0944.png|dataset/ffhq__filter/ffhq__0944.png|0
+dataset/sgan2/sgan2_0325.png|dataset/sgan2_filter/sgan2_0325.png|3
+dataset/pgan_/pgan__0585.png|dataset/pgan__filter/pgan__0585.png|1
+dataset/ffhq_/ffhq__0975.png|dataset/ffhq__filter/ffhq__0975.png|0
+dataset/pgan_/pgan__0481.png|dataset/pgan__filter/pgan__0481.png|1
+dataset/ffhq_/ffhq__0794.png|dataset/ffhq__filter/ffhq__0794.png|0
+dataset/sgan1/sgan1_0369.png|dataset/sgan1_filter/sgan1_0369.png|2
+dataset/sgan1/sgan1_0483.png|dataset/sgan1_filter/sgan1_0483.png|2
+dataset/pgan_/pgan__0323.png|dataset/pgan__filter/pgan__0323.png|1
+dataset/pgan_/pgan__0280.png|dataset/pgan__filter/pgan__0280.png|1
+dataset/sgan2/sgan2_0773.png|dataset/sgan2_filter/sgan2_0773.png|3
+dataset/pgan_/pgan__1001.png|dataset/pgan__filter/pgan__1001.png|1
+dataset/sgan2/sgan2_0642.png|dataset/sgan2_filter/sgan2_0642.png|3
+dataset/pgan_/pgan__0438.png|dataset/pgan__filter/pgan__0438.png|1
+dataset/pgan_/pgan__0521.png|dataset/pgan__filter/pgan__0521.png|1
+dataset/sgan2/sgan2_0922.png|dataset/sgan2_filter/sgan2_0922.png|3
+dataset/pgan_/pgan__0106.png|dataset/pgan__filter/pgan__0106.png|1
+dataset/sgan1/sgan1_0294.png|dataset/sgan1_filter/sgan1_0294.png|2
+dataset/pgan_/pgan__0880.png|dataset/pgan__filter/pgan__0880.png|1
+dataset/sgan2/sgan2_0170.png|dataset/sgan2_filter/sgan2_0170.png|3
+dataset/sgan1/sgan1_0098.png|dataset/sgan1_filter/sgan1_0098.png|2
+dataset/sgan2/sgan2_0001.png|dataset/sgan2_filter/sgan2_0001.png|3
+dataset/ffhq_/ffhq__0579.png|dataset/ffhq__filter/ffhq__0579.png|0
+dataset/sgan1/sgan1_0182.png|dataset/sgan1_filter/sgan1_0182.png|2
+dataset/sgan1/sgan1_0152.png|dataset/sgan1_filter/sgan1_0152.png|2
+dataset/pgan_/pgan__0339.png|dataset/pgan__filter/pgan__0339.png|1
+dataset/sgan2/sgan2_0255.png|dataset/sgan2_filter/sgan2_0255.png|3
+dataset/sgan1/sgan1_0151.png|dataset/sgan1_filter/sgan1_0151.png|2
+dataset/sgan2/sgan2_0121.png|dataset/sgan2_filter/sgan2_0121.png|3
+dataset/pgan_/pgan__0522.png|dataset/pgan__filter/pgan__0522.png|1
+dataset/sgan2/sgan2_0124.png|dataset/sgan2_filter/sgan2_0124.png|3
+dataset/sgan1/sgan1_0732.png|dataset/sgan1_filter/sgan1_0732.png|2
+dataset/ffhq_/ffhq__0394.png|dataset/ffhq__filter/ffhq__0394.png|0
+dataset/ffhq_/ffhq__0314.png|dataset/ffhq__filter/ffhq__0314.png|0
+dataset/sgan2/sgan2_0086.png|dataset/sgan2_filter/sgan2_0086.png|3
+dataset/pgan_/pgan__0753.png|dataset/pgan__filter/pgan__0753.png|1
+dataset/ffhq_/ffhq__0183.png|dataset/ffhq__filter/ffhq__0183.png|0
+dataset/sgan2/sgan2_0166.png|dataset/sgan2_filter/sgan2_0166.png|3
+dataset/ffhq_/ffhq__0440.png|dataset/ffhq__filter/ffhq__0440.png|0
+dataset/sgan1/sgan1_0368.png|dataset/sgan1_filter/sgan1_0368.png|2
+dataset/pgan_/pgan__0998.png|dataset/pgan__filter/pgan__0998.png|1
+dataset/pgan_/pgan__0473.png|dataset/pgan__filter/pgan__0473.png|1
+dataset/sgan2/sgan2_0238.png|dataset/sgan2_filter/sgan2_0238.png|3
+dataset/pgan_/pgan__0928.png|dataset/pgan__filter/pgan__0928.png|1
+dataset/sgan1/sgan1_0036.png|dataset/sgan1_filter/sgan1_0036.png|2
+dataset/sgan2/sgan2_0686.png|dataset/sgan2_filter/sgan2_0686.png|3
+dataset/ffhq_/ffhq__0715.png|dataset/ffhq__filter/ffhq__0715.png|0
+dataset/sgan2/sgan2_0159.png|dataset/sgan2_filter/sgan2_0159.png|3
+dataset/sgan2/sgan2_0490.png|dataset/sgan2_filter/sgan2_0490.png|3
+dataset/sgan2/sgan2_0848.png|dataset/sgan2_filter/sgan2_0848.png|3
+dataset/sgan1/sgan1_0322.png|dataset/sgan1_filter/sgan1_0322.png|2
+dataset/sgan1/sgan1_0359.png|dataset/sgan1_filter/sgan1_0359.png|2
+dataset/pgan_/pgan__0239.png|dataset/pgan__filter/pgan__0239.png|1
+dataset/pgan_/pgan__0810.png|dataset/pgan__filter/pgan__0810.png|1
+dataset/ffhq_/ffhq__0070.png|dataset/ffhq__filter/ffhq__0070.png|0
+dataset/sgan1/sgan1_0124.png|dataset/sgan1_filter/sgan1_0124.png|2
+dataset/pgan_/pgan__0263.png|dataset/pgan__filter/pgan__0263.png|1
+dataset/pgan_/pgan__0050.png|dataset/pgan__filter/pgan__0050.png|1
+dataset/pgan_/pgan__0243.png|dataset/pgan__filter/pgan__0243.png|1
+dataset/pgan_/pgan__0429.png|dataset/pgan__filter/pgan__0429.png|1
+dataset/ffhq_/ffhq__0094.png|dataset/ffhq__filter/ffhq__0094.png|0
+dataset/pgan_/pgan__0408.png|dataset/pgan__filter/pgan__0408.png|1
+dataset/sgan1/sgan1_0742.png|dataset/sgan1_filter/sgan1_0742.png|2
+dataset/sgan1/sgan1_0833.png|dataset/sgan1_filter/sgan1_0833.png|2
+dataset/pgan_/pgan__0682.png|dataset/pgan__filter/pgan__0682.png|1
+dataset/ffhq_/ffhq__0499.png|dataset/ffhq__filter/ffhq__0499.png|0
+dataset/sgan1/sgan1_0521.png|dataset/sgan1_filter/sgan1_0521.png|2
+dataset/sgan1/sgan1_0632.png|dataset/sgan1_filter/sgan1_0632.png|2
+dataset/pgan_/pgan__1000.png|dataset/pgan__filter/pgan__1000.png|1
+dataset/pgan_/pgan__0148.png|dataset/pgan__filter/pgan__0148.png|1
+dataset/sgan2/sgan2_0866.png|dataset/sgan2_filter/sgan2_0866.png|3
+dataset/ffhq_/ffhq__0527.png|dataset/ffhq__filter/ffhq__0527.png|0
+dataset/pgan_/pgan__0837.png|dataset/pgan__filter/pgan__0837.png|1
+dataset/ffhq_/ffhq__0050.png|dataset/ffhq__filter/ffhq__0050.png|0
+dataset/ffhq_/ffhq__0191.png|dataset/ffhq__filter/ffhq__0191.png|0
+dataset/ffhq_/ffhq__0343.png|dataset/ffhq__filter/ffhq__0343.png|0
+dataset/pgan_/pgan__0631.png|dataset/pgan__filter/pgan__0631.png|1
+dataset/pgan_/pgan__0988.png|dataset/pgan__filter/pgan__0988.png|1
+dataset/pgan_/pgan__0415.png|dataset/pgan__filter/pgan__0415.png|1
+dataset/pgan_/pgan__0143.png|dataset/pgan__filter/pgan__0143.png|1
+dataset/sgan2/sgan2_0899.png|dataset/sgan2_filter/sgan2_0899.png|3
+dataset/pgan_/pgan__0635.png|dataset/pgan__filter/pgan__0635.png|1
+dataset/sgan1/sgan1_0874.png|dataset/sgan1_filter/sgan1_0874.png|2
+dataset/sgan1/sgan1_0494.png|dataset/sgan1_filter/sgan1_0494.png|2
+dataset/pgan_/pgan__0262.png|dataset/pgan__filter/pgan__0262.png|1
+dataset/ffhq_/ffhq__0828.png|dataset/ffhq__filter/ffhq__0828.png|0
+dataset/sgan1/sgan1_0421.png|dataset/sgan1_filter/sgan1_0421.png|2
+dataset/pgan_/pgan__0513.png|dataset/pgan__filter/pgan__0513.png|1
+dataset/ffhq_/ffhq__0688.png|dataset/ffhq__filter/ffhq__0688.png|0
+dataset/sgan1/sgan1_0703.png|dataset/sgan1_filter/sgan1_0703.png|2
+dataset/pgan_/pgan__0356.png|dataset/pgan__filter/pgan__0356.png|1
+dataset/sgan1/sgan1_0470.png|dataset/sgan1_filter/sgan1_0470.png|2
+dataset/sgan2/sgan2_0501.png|dataset/sgan2_filter/sgan2_0501.png|3
+dataset/pgan_/pgan__0475.png|dataset/pgan__filter/pgan__0475.png|1
+dataset/sgan2/sgan2_0381.png|dataset/sgan2_filter/sgan2_0381.png|3
+dataset/ffhq_/ffhq__0279.png|dataset/ffhq__filter/ffhq__0279.png|0
+dataset/pgan_/pgan__1017.png|dataset/pgan__filter/pgan__1017.png|1
+dataset/sgan2/sgan2_0063.png|dataset/sgan2_filter/sgan2_0063.png|3
+dataset/pgan_/pgan__0675.png|dataset/pgan__filter/pgan__0675.png|1
+dataset/sgan1/sgan1_0849.png|dataset/sgan1_filter/sgan1_0849.png|2
+dataset/pgan_/pgan__0553.png|dataset/pgan__filter/pgan__0553.png|1
+dataset/sgan1/sgan1_0053.png|dataset/sgan1_filter/sgan1_0053.png|2
+dataset/ffhq_/ffhq__0135.png|dataset/ffhq__filter/ffhq__0135.png|0
+dataset/sgan2/sgan2_0239.png|dataset/sgan2_filter/sgan2_0239.png|3
+dataset/ffhq_/ffhq__0077.png|dataset/ffhq__filter/ffhq__0077.png|0
+dataset/pgan_/pgan__0576.png|dataset/pgan__filter/pgan__0576.png|1
+dataset/sgan1/sgan1_0419.png|dataset/sgan1_filter/sgan1_0419.png|2
+dataset/sgan2/sgan2_0542.png|dataset/sgan2_filter/sgan2_0542.png|3
+dataset/ffhq_/ffhq__0376.png|dataset/ffhq__filter/ffhq__0376.png|0
+dataset/sgan2/sgan2_0515.png|dataset/sgan2_filter/sgan2_0515.png|3
+dataset/pgan_/pgan__0173.png|dataset/pgan__filter/pgan__0173.png|1
+dataset/sgan2/sgan2_0143.png|dataset/sgan2_filter/sgan2_0143.png|3
+dataset/ffhq_/ffhq__0491.png|dataset/ffhq__filter/ffhq__0491.png|0
+dataset/pgan_/pgan__0629.png|dataset/pgan__filter/pgan__0629.png|1
+dataset/sgan1/sgan1_0480.png|dataset/sgan1_filter/sgan1_0480.png|2
+dataset/sgan2/sgan2_0008.png|dataset/sgan2_filter/sgan2_0008.png|3
+dataset/ffhq_/ffhq__0252.png|dataset/ffhq__filter/ffhq__0252.png|0
+dataset/sgan2/sgan2_0084.png|dataset/sgan2_filter/sgan2_0084.png|3
+dataset/pgan_/pgan__0057.png|dataset/pgan__filter/pgan__0057.png|1
+dataset/pgan_/pgan__0564.png|dataset/pgan__filter/pgan__0564.png|1
+dataset/sgan2/sgan2_0343.png|dataset/sgan2_filter/sgan2_0343.png|3
+dataset/ffhq_/ffhq__0254.png|dataset/ffhq__filter/ffhq__0254.png|0
+dataset/sgan1/sgan1_0811.png|dataset/sgan1_filter/sgan1_0811.png|2
+dataset/sgan2/sgan2_0784.png|dataset/sgan2_filter/sgan2_0784.png|3
+dataset/ffhq_/ffhq__0754.png|dataset/ffhq__filter/ffhq__0754.png|0
+dataset/pgan_/pgan__0759.png|dataset/pgan__filter/pgan__0759.png|1
+dataset/ffhq_/ffhq__0700.png|dataset/ffhq__filter/ffhq__0700.png|0
+dataset/sgan1/sgan1_0510.png|dataset/sgan1_filter/sgan1_0510.png|2
+dataset/sgan2/sgan2_0271.png|dataset/sgan2_filter/sgan2_0271.png|3
+dataset/ffhq_/ffhq__0377.png|dataset/ffhq__filter/ffhq__0377.png|0
+dataset/sgan2/sgan2_0450.png|dataset/sgan2_filter/sgan2_0450.png|3
+dataset/ffhq_/ffhq__0811.png|dataset/ffhq__filter/ffhq__0811.png|0
+dataset/ffhq_/ffhq__0563.png|dataset/ffhq__filter/ffhq__0563.png|0
+dataset/ffhq_/ffhq__0822.png|dataset/ffhq__filter/ffhq__0822.png|0
+dataset/pgan_/pgan__0582.png|dataset/pgan__filter/pgan__0582.png|1
+dataset/ffhq_/ffhq__0418.png|dataset/ffhq__filter/ffhq__0418.png|0
+dataset/pgan_/pgan__0000.png|dataset/pgan__filter/pgan__0000.png|1
+dataset/sgan1/sgan1_0604.png|dataset/sgan1_filter/sgan1_0604.png|2
+dataset/pgan_/pgan__0777.png|dataset/pgan__filter/pgan__0777.png|1
+dataset/pgan_/pgan__0994.png|dataset/pgan__filter/pgan__0994.png|1
+dataset/sgan2/sgan2_0659.png|dataset/sgan2_filter/sgan2_0659.png|3
+dataset/sgan2/sgan2_0385.png|dataset/sgan2_filter/sgan2_0385.png|3
+dataset/sgan1/sgan1_0037.png|dataset/sgan1_filter/sgan1_0037.png|2
+dataset/sgan2/sgan2_0944.png|dataset/sgan2_filter/sgan2_0944.png|3
+dataset/sgan2/sgan2_0123.png|dataset/sgan2_filter/sgan2_0123.png|3
+dataset/pgan_/pgan__1030.png|dataset/pgan__filter/pgan__1030.png|1
+dataset/ffhq_/ffhq__0909.png|dataset/ffhq__filter/ffhq__0909.png|0
+dataset/sgan2/sgan2_0507.png|dataset/sgan2_filter/sgan2_0507.png|3
+dataset/sgan2/sgan2_0716.png|dataset/sgan2_filter/sgan2_0716.png|3
+dataset/pgan_/pgan__0680.png|dataset/pgan__filter/pgan__0680.png|1
+dataset/pgan_/pgan__0729.png|dataset/pgan__filter/pgan__0729.png|1
+dataset/ffhq_/ffhq__0205.png|dataset/ffhq__filter/ffhq__0205.png|0
+dataset/sgan2/sgan2_0087.png|dataset/sgan2_filter/sgan2_0087.png|3
+dataset/ffhq_/ffhq__0457.png|dataset/ffhq__filter/ffhq__0457.png|0
+dataset/sgan2/sgan2_0496.png|dataset/sgan2_filter/sgan2_0496.png|3
+dataset/sgan2/sgan2_0644.png|dataset/sgan2_filter/sgan2_0644.png|3
+dataset/ffhq_/ffhq__0758.png|dataset/ffhq__filter/ffhq__0758.png|0
+dataset/ffhq_/ffhq__0815.png|dataset/ffhq__filter/ffhq__0815.png|0
+dataset/pgan_/pgan__0449.png|dataset/pgan__filter/pgan__0449.png|1
+dataset/sgan1/sgan1_0460.png|dataset/sgan1_filter/sgan1_0460.png|2
+dataset/sgan1/sgan1_0336.png|dataset/sgan1_filter/sgan1_0336.png|2
+dataset/pgan_/pgan__0744.png|dataset/pgan__filter/pgan__0744.png|1
+dataset/ffhq_/ffhq__0228.png|dataset/ffhq__filter/ffhq__0228.png|0
+dataset/pgan_/pgan__0146.png|dataset/pgan__filter/pgan__0146.png|1
+dataset/sgan1/sgan1_0230.png|dataset/sgan1_filter/sgan1_0230.png|2
+dataset/ffhq_/ffhq__0702.png|dataset/ffhq__filter/ffhq__0702.png|0
+dataset/pgan_/pgan__0641.png|dataset/pgan__filter/pgan__0641.png|1
+dataset/sgan1/sgan1_0454.png|dataset/sgan1_filter/sgan1_0454.png|2
+dataset/pgan_/pgan__0656.png|dataset/pgan__filter/pgan__0656.png|1
+dataset/ffhq_/ffhq__0352.png|dataset/ffhq__filter/ffhq__0352.png|0
+dataset/sgan2/sgan2_0136.png|dataset/sgan2_filter/sgan2_0136.png|3
+dataset/ffhq_/ffhq__0644.png|dataset/ffhq__filter/ffhq__0644.png|0
+dataset/sgan2/sgan2_0399.png|dataset/sgan2_filter/sgan2_0399.png|3
+dataset/pgan_/pgan__0956.png|dataset/pgan__filter/pgan__0956.png|1
+dataset/sgan1/sgan1_0999.png|dataset/sgan1_filter/sgan1_0999.png|2
+dataset/sgan1/sgan1_0086.png|dataset/sgan1_filter/sgan1_0086.png|2
+dataset/sgan2/sgan2_0943.png|dataset/sgan2_filter/sgan2_0943.png|3
+dataset/ffhq_/ffhq__0655.png|dataset/ffhq__filter/ffhq__0655.png|0
+dataset/pgan_/pgan__0090.png|dataset/pgan__filter/pgan__0090.png|1
+dataset/sgan1/sgan1_0519.png|dataset/sgan1_filter/sgan1_0519.png|2
+dataset/sgan2/sgan2_0074.png|dataset/sgan2_filter/sgan2_0074.png|3
+dataset/sgan1/sgan1_0337.png|dataset/sgan1_filter/sgan1_0337.png|2
+dataset/sgan2/sgan2_0637.png|dataset/sgan2_filter/sgan2_0637.png|3
+dataset/sgan2/sgan2_0111.png|dataset/sgan2_filter/sgan2_0111.png|3
+dataset/pgan_/pgan__0622.png|dataset/pgan__filter/pgan__0622.png|1
+dataset/ffhq_/ffhq__0487.png|dataset/ffhq__filter/ffhq__0487.png|0
+dataset/sgan1/sgan1_0848.png|dataset/sgan1_filter/sgan1_0848.png|2
+dataset/ffhq_/ffhq__0127.png|dataset/ffhq__filter/ffhq__0127.png|0
+dataset/ffhq_/ffhq__0356.png|dataset/ffhq__filter/ffhq__0356.png|0
+dataset/sgan1/sgan1_0276.png|dataset/sgan1_filter/sgan1_0276.png|2
+dataset/ffhq_/ffhq__0060.png|dataset/ffhq__filter/ffhq__0060.png|0
+dataset/pgan_/pgan__0722.png|dataset/pgan__filter/pgan__0722.png|1
+dataset/sgan1/sgan1_0175.png|dataset/sgan1_filter/sgan1_0175.png|2
+dataset/pgan_/pgan__0751.png|dataset/pgan__filter/pgan__0751.png|1
+dataset/ffhq_/ffhq__0280.png|dataset/ffhq__filter/ffhq__0280.png|0
+dataset/ffhq_/ffhq__0682.png|dataset/ffhq__filter/ffhq__0682.png|0
+dataset/ffhq_/ffhq__0035.png|dataset/ffhq__filter/ffhq__0035.png|0
+dataset/ffhq_/ffhq__0965.png|dataset/ffhq__filter/ffhq__0965.png|0
+dataset/sgan1/sgan1_0422.png|dataset/sgan1_filter/sgan1_0422.png|2
+dataset/ffhq_/ffhq__0221.png|dataset/ffhq__filter/ffhq__0221.png|0
+dataset/pgan_/pgan__0037.png|dataset/pgan__filter/pgan__0037.png|1
+dataset/sgan1/sgan1_0105.png|dataset/sgan1_filter/sgan1_0105.png|2
+dataset/pgan_/pgan__0712.png|dataset/pgan__filter/pgan__0712.png|1
+dataset/pgan_/pgan__0766.png|dataset/pgan__filter/pgan__0766.png|1
+dataset/pgan_/pgan__0502.png|dataset/pgan__filter/pgan__0502.png|1
+dataset/ffhq_/ffhq__0232.png|dataset/ffhq__filter/ffhq__0232.png|0
+dataset/sgan1/sgan1_0232.png|dataset/sgan1_filter/sgan1_0232.png|2
+dataset/pgan_/pgan__0401.png|dataset/pgan__filter/pgan__0401.png|1
+dataset/sgan1/sgan1_0378.png|dataset/sgan1_filter/sgan1_0378.png|2
+dataset/sgan1/sgan1_0171.png|dataset/sgan1_filter/sgan1_0171.png|2
+dataset/sgan1/sgan1_0669.png|dataset/sgan1_filter/sgan1_0669.png|2
+dataset/sgan1/sgan1_0516.png|dataset/sgan1_filter/sgan1_0516.png|2
+dataset/sgan1/sgan1_0059.png|dataset/sgan1_filter/sgan1_0059.png|2
+dataset/pgan_/pgan__0658.png|dataset/pgan__filter/pgan__0658.png|1
+dataset/pgan_/pgan__0104.png|dataset/pgan__filter/pgan__0104.png|1
+dataset/sgan1/sgan1_0183.png|dataset/sgan1_filter/sgan1_0183.png|2
+dataset/sgan2/sgan2_0116.png|dataset/sgan2_filter/sgan2_0116.png|3
+dataset/pgan_/pgan__0789.png|dataset/pgan__filter/pgan__0789.png|1
+dataset/pgan_/pgan__0546.png|dataset/pgan__filter/pgan__0546.png|1
+dataset/pgan_/pgan__0652.png|dataset/pgan__filter/pgan__0652.png|1
+dataset/pgan_/pgan__0334.png|dataset/pgan__filter/pgan__0334.png|1
+dataset/sgan2/sgan2_0984.png|dataset/sgan2_filter/sgan2_0984.png|3
+dataset/pgan_/pgan__0857.png|dataset/pgan__filter/pgan__0857.png|1
+dataset/ffhq_/ffhq__0617.png|dataset/ffhq__filter/ffhq__0617.png|0
+dataset/sgan1/sgan1_0899.png|dataset/sgan1_filter/sgan1_0899.png|2
+dataset/pgan_/pgan__0763.png|dataset/pgan__filter/pgan__0763.png|1
+dataset/pgan_/pgan__0707.png|dataset/pgan__filter/pgan__0707.png|1
+dataset/sgan1/sgan1_0456.png|dataset/sgan1_filter/sgan1_0456.png|2
+dataset/sgan2/sgan2_0460.png|dataset/sgan2_filter/sgan2_0460.png|3
+dataset/ffhq_/ffhq__0582.png|dataset/ffhq__filter/ffhq__0582.png|0
+dataset/sgan2/sgan2_0284.png|dataset/sgan2_filter/sgan2_0284.png|3
+dataset/sgan2/sgan2_0346.png|dataset/sgan2_filter/sgan2_0346.png|3
+dataset/sgan2/sgan2_0026.png|dataset/sgan2_filter/sgan2_0026.png|3
+dataset/ffhq_/ffhq__0185.png|dataset/ffhq__filter/ffhq__0185.png|0
+dataset/sgan1/sgan1_0078.png|dataset/sgan1_filter/sgan1_0078.png|2
+dataset/ffhq_/ffhq__0297.png|dataset/ffhq__filter/ffhq__0297.png|0
+dataset/pgan_/pgan__1056.png|dataset/pgan__filter/pgan__1056.png|1
+dataset/ffhq_/ffhq__0026.png|dataset/ffhq__filter/ffhq__0026.png|0
+dataset/pgan_/pgan__0975.png|dataset/pgan__filter/pgan__0975.png|1
+dataset/sgan1/sgan1_0076.png|dataset/sgan1_filter/sgan1_0076.png|2
+dataset/ffhq_/ffhq__0515.png|dataset/ffhq__filter/ffhq__0515.png|0
+dataset/sgan1/sgan1_0616.png|dataset/sgan1_filter/sgan1_0616.png|2
+dataset/ffhq_/ffhq__0006.png|dataset/ffhq__filter/ffhq__0006.png|0
+dataset/sgan1/sgan1_0733.png|dataset/sgan1_filter/sgan1_0733.png|2
+dataset/sgan2/sgan2_0100.png|dataset/sgan2_filter/sgan2_0100.png|3
+dataset/sgan1/sgan1_0351.png|dataset/sgan1_filter/sgan1_0351.png|2
+dataset/sgan2/sgan2_0024.png|dataset/sgan2_filter/sgan2_0024.png|3
+dataset/ffhq_/ffhq__0788.png|dataset/ffhq__filter/ffhq__0788.png|0
+dataset/sgan2/sgan2_0632.png|dataset/sgan2_filter/sgan2_0632.png|3
+dataset/pgan_/pgan__0135.png|dataset/pgan__filter/pgan__0135.png|1
+dataset/ffhq_/ffhq__0685.png|dataset/ffhq__filter/ffhq__0685.png|0
+dataset/sgan2/sgan2_0715.png|dataset/sgan2_filter/sgan2_0715.png|3
+dataset/ffhq_/ffhq__0468.png|dataset/ffhq__filter/ffhq__0468.png|0
+dataset/pgan_/pgan__0890.png|dataset/pgan__filter/pgan__0890.png|1
+dataset/sgan2/sgan2_0604.png|dataset/sgan2_filter/sgan2_0604.png|3
+dataset/pgan_/pgan__0942.png|dataset/pgan__filter/pgan__0942.png|1
+dataset/pgan_/pgan__1046.png|dataset/pgan__filter/pgan__1046.png|1
+dataset/ffhq_/ffhq__0509.png|dataset/ffhq__filter/ffhq__0509.png|0
+dataset/sgan2/sgan2_0804.png|dataset/sgan2_filter/sgan2_0804.png|3
+dataset/ffhq_/ffhq__0011.png|dataset/ffhq__filter/ffhq__0011.png|0
+dataset/ffhq_/ffhq__0151.png|dataset/ffhq__filter/ffhq__0151.png|0
+dataset/sgan1/sgan1_0282.png|dataset/sgan1_filter/sgan1_0282.png|2
+dataset/ffhq_/ffhq__0270.png|dataset/ffhq__filter/ffhq__0270.png|0
+dataset/sgan2/sgan2_0897.png|dataset/sgan2_filter/sgan2_0897.png|3
+dataset/pgan_/pgan__1013.png|dataset/pgan__filter/pgan__1013.png|1
+dataset/pgan_/pgan__0863.png|dataset/pgan__filter/pgan__0863.png|1
+dataset/sgan2/sgan2_0047.png|dataset/sgan2_filter/sgan2_0047.png|3
+dataset/pgan_/pgan__0246.png|dataset/pgan__filter/pgan__0246.png|1
+dataset/pgan_/pgan__0544.png|dataset/pgan__filter/pgan__0544.png|1
+dataset/sgan2/sgan2_0326.png|dataset/sgan2_filter/sgan2_0326.png|3
+dataset/ffhq_/ffhq__0750.png|dataset/ffhq__filter/ffhq__0750.png|0
+dataset/ffhq_/ffhq__0031.png|dataset/ffhq__filter/ffhq__0031.png|0
+dataset/ffhq_/ffhq__0937.png|dataset/ffhq__filter/ffhq__0937.png|0
+dataset/sgan2/sgan2_0328.png|dataset/sgan2_filter/sgan2_0328.png|3
+dataset/ffhq_/ffhq__0186.png|dataset/ffhq__filter/ffhq__0186.png|0
+dataset/ffhq_/ffhq__0358.png|dataset/ffhq__filter/ffhq__0358.png|0
+dataset/ffhq_/ffhq__0315.png|dataset/ffhq__filter/ffhq__0315.png|0
+dataset/ffhq_/ffhq__0775.png|dataset/ffhq__filter/ffhq__0775.png|0
+dataset/sgan1/sgan1_0715.png|dataset/sgan1_filter/sgan1_0715.png|2
+dataset/sgan2/sgan2_0278.png|dataset/sgan2_filter/sgan2_0278.png|3
+dataset/pgan_/pgan__0047.png|dataset/pgan__filter/pgan__0047.png|1
+dataset/pgan_/pgan__1055.png|dataset/pgan__filter/pgan__1055.png|1
+dataset/sgan2/sgan2_0319.png|dataset/sgan2_filter/sgan2_0319.png|3
+dataset/sgan1/sgan1_0984.png|dataset/sgan1_filter/sgan1_0984.png|2
+dataset/sgan2/sgan2_0755.png|dataset/sgan2_filter/sgan2_0755.png|3
+dataset/pgan_/pgan__0828.png|dataset/pgan__filter/pgan__0828.png|1
+dataset/sgan1/sgan1_0101.png|dataset/sgan1_filter/sgan1_0101.png|2
+dataset/ffhq_/ffhq__0486.png|dataset/ffhq__filter/ffhq__0486.png|0
+dataset/pgan_/pgan__0442.png|dataset/pgan__filter/pgan__0442.png|1
+dataset/ffhq_/ffhq__0953.png|dataset/ffhq__filter/ffhq__0953.png|0
+dataset/ffhq_/ffhq__0974.png|dataset/ffhq__filter/ffhq__0974.png|0
+dataset/sgan1/sgan1_0548.png|dataset/sgan1_filter/sgan1_0548.png|2
+dataset/pgan_/pgan__0234.png|dataset/pgan__filter/pgan__0234.png|1
+dataset/sgan2/sgan2_0654.png|dataset/sgan2_filter/sgan2_0654.png|3
+dataset/ffhq_/ffhq__0651.png|dataset/ffhq__filter/ffhq__0651.png|0
+dataset/ffhq_/ffhq__0544.png|dataset/ffhq__filter/ffhq__0544.png|0
+dataset/sgan2/sgan2_0407.png|dataset/sgan2_filter/sgan2_0407.png|3
+dataset/sgan2/sgan2_0924.png|dataset/sgan2_filter/sgan2_0924.png|3
+dataset/sgan1/sgan1_0200.png|dataset/sgan1_filter/sgan1_0200.png|2
+dataset/sgan1/sgan1_0652.png|dataset/sgan1_filter/sgan1_0652.png|2
+dataset/sgan2/sgan2_0486.png|dataset/sgan2_filter/sgan2_0486.png|3
+dataset/sgan1/sgan1_0949.png|dataset/sgan1_filter/sgan1_0949.png|2
+dataset/sgan2/sgan2_0098.png|dataset/sgan2_filter/sgan2_0098.png|3
+dataset/sgan2/sgan2_0000.png|dataset/sgan2_filter/sgan2_0000.png|3
+dataset/sgan2/sgan2_0905.png|dataset/sgan2_filter/sgan2_0905.png|3
+dataset/ffhq_/ffhq__0008.png|dataset/ffhq__filter/ffhq__0008.png|0
+dataset/pgan_/pgan__0874.png|dataset/pgan__filter/pgan__0874.png|1
+dataset/sgan1/sgan1_0955.png|dataset/sgan1_filter/sgan1_0955.png|2
+dataset/sgan2/sgan2_0537.png|dataset/sgan2_filter/sgan2_0537.png|3
+dataset/sgan2/sgan2_0300.png|dataset/sgan2_filter/sgan2_0300.png|3
+dataset/ffhq_/ffhq__0473.png|dataset/ffhq__filter/ffhq__0473.png|0
+dataset/ffhq_/ffhq__0134.png|dataset/ffhq__filter/ffhq__0134.png|0
+dataset/sgan1/sgan1_0166.png|dataset/sgan1_filter/sgan1_0166.png|2
+dataset/pgan_/pgan__0969.png|dataset/pgan__filter/pgan__0969.png|1
+dataset/sgan2/sgan2_0204.png|dataset/sgan2_filter/sgan2_0204.png|3
+dataset/sgan1/sgan1_0698.png|dataset/sgan1_filter/sgan1_0698.png|2
+dataset/ffhq_/ffhq__0689.png|dataset/ffhq__filter/ffhq__0689.png|0
+dataset/sgan1/sgan1_0985.png|dataset/sgan1_filter/sgan1_0985.png|2
+dataset/pgan_/pgan__0638.png|dataset/pgan__filter/pgan__0638.png|1
+dataset/ffhq_/ffhq__0692.png|dataset/ffhq__filter/ffhq__0692.png|0
+dataset/pgan_/pgan__0802.png|dataset/pgan__filter/pgan__0802.png|1
+dataset/sgan2/sgan2_0684.png|dataset/sgan2_filter/sgan2_0684.png|3
+dataset/pgan_/pgan__0471.png|dataset/pgan__filter/pgan__0471.png|1
+dataset/pgan_/pgan__0083.png|dataset/pgan__filter/pgan__0083.png|1
+dataset/pgan_/pgan__1052.png|dataset/pgan__filter/pgan__1052.png|1
+dataset/sgan1/sgan1_0943.png|dataset/sgan1_filter/sgan1_0943.png|2
+dataset/sgan2/sgan2_0849.png|dataset/sgan2_filter/sgan2_0849.png|3
+dataset/pgan_/pgan__0309.png|dataset/pgan__filter/pgan__0309.png|1
+dataset/sgan1/sgan1_0304.png|dataset/sgan1_filter/sgan1_0304.png|2
+dataset/sgan2/sgan2_0092.png|dataset/sgan2_filter/sgan2_0092.png|3
+dataset/ffhq_/ffhq__0996.png|dataset/ffhq__filter/ffhq__0996.png|0
+dataset/pgan_/pgan__0632.png|dataset/pgan__filter/pgan__0632.png|1
+dataset/sgan1/sgan1_0730.png|dataset/sgan1_filter/sgan1_0730.png|2
+dataset/ffhq_/ffhq__0229.png|dataset/ffhq__filter/ffhq__0229.png|0
+dataset/pgan_/pgan__0909.png|dataset/pgan__filter/pgan__0909.png|1
+dataset/ffhq_/ffhq__0518.png|dataset/ffhq__filter/ffhq__0518.png|0
+dataset/sgan2/sgan2_0375.png|dataset/sgan2_filter/sgan2_0375.png|3
+dataset/ffhq_/ffhq__0338.png|dataset/ffhq__filter/ffhq__0338.png|0
+dataset/sgan1/sgan1_0590.png|dataset/sgan1_filter/sgan1_0590.png|2
+dataset/ffhq_/ffhq__0566.png|dataset/ffhq__filter/ffhq__0566.png|0
+dataset/pgan_/pgan__0840.png|dataset/pgan__filter/pgan__0840.png|1
+dataset/ffhq_/ffhq__0300.png|dataset/ffhq__filter/ffhq__0300.png|0
+dataset/sgan1/sgan1_0431.png|dataset/sgan1_filter/sgan1_0431.png|2
+dataset/sgan2/sgan2_0289.png|dataset/sgan2_filter/sgan2_0289.png|3
+dataset/sgan1/sgan1_0500.png|dataset/sgan1_filter/sgan1_0500.png|2
+dataset/sgan2/sgan2_0513.png|dataset/sgan2_filter/sgan2_0513.png|3
+dataset/pgan_/pgan__0843.png|dataset/pgan__filter/pgan__0843.png|1
+dataset/pgan_/pgan__0059.png|dataset/pgan__filter/pgan__0059.png|1
+dataset/ffhq_/ffhq__0906.png|dataset/ffhq__filter/ffhq__0906.png|0
+dataset/sgan1/sgan1_0198.png|dataset/sgan1_filter/sgan1_0198.png|2
+dataset/pgan_/pgan__0929.png|dataset/pgan__filter/pgan__0929.png|1
+dataset/sgan2/sgan2_0682.png|dataset/sgan2_filter/sgan2_0682.png|3
+dataset/sgan2/sgan2_0633.png|dataset/sgan2_filter/sgan2_0633.png|3
+dataset/pgan_/pgan__0848.png|dataset/pgan__filter/pgan__0848.png|1
+dataset/sgan1/sgan1_0825.png|dataset/sgan1_filter/sgan1_0825.png|2
+dataset/sgan2/sgan2_0658.png|dataset/sgan2_filter/sgan2_0658.png|3
+dataset/pgan_/pgan__0861.png|dataset/pgan__filter/pgan__0861.png|1
+dataset/sgan2/sgan2_0447.png|dataset/sgan2_filter/sgan2_0447.png|3
+dataset/sgan1/sgan1_0885.png|dataset/sgan1_filter/sgan1_0885.png|2
+dataset/pgan_/pgan__0533.png|dataset/pgan__filter/pgan__0533.png|1
+dataset/pgan_/pgan__0244.png|dataset/pgan__filter/pgan__0244.png|1
+dataset/sgan1/sgan1_0686.png|dataset/sgan1_filter/sgan1_0686.png|2
+dataset/sgan1/sgan1_0416.png|dataset/sgan1_filter/sgan1_0416.png|2
+dataset/sgan1/sgan1_0667.png|dataset/sgan1_filter/sgan1_0667.png|2
+dataset/sgan1/sgan1_0953.png|dataset/sgan1_filter/sgan1_0953.png|2
+dataset/pgan_/pgan__0714.png|dataset/pgan__filter/pgan__0714.png|1
+dataset/sgan1/sgan1_0172.png|dataset/sgan1_filter/sgan1_0172.png|2
+dataset/sgan1/sgan1_0083.png|dataset/sgan1_filter/sgan1_0083.png|2
+dataset/ffhq_/ffhq__0734.png|dataset/ffhq__filter/ffhq__0734.png|0
+dataset/pgan_/pgan__0391.png|dataset/pgan__filter/pgan__0391.png|1
+dataset/sgan2/sgan2_0609.png|dataset/sgan2_filter/sgan2_0609.png|3
+dataset/ffhq_/ffhq__0432.png|dataset/ffhq__filter/ffhq__0432.png|0
+dataset/sgan1/sgan1_0371.png|dataset/sgan1_filter/sgan1_0371.png|2
+dataset/sgan2/sgan2_0500.png|dataset/sgan2_filter/sgan2_0500.png|3
+dataset/sgan1/sgan1_0192.png|dataset/sgan1_filter/sgan1_0192.png|2
+dataset/ffhq_/ffhq__0539.png|dataset/ffhq__filter/ffhq__0539.png|0
+dataset/ffhq_/ffhq__0053.png|dataset/ffhq__filter/ffhq__0053.png|0
+dataset/pgan_/pgan__1060.png|dataset/pgan__filter/pgan__1060.png|1
+dataset/ffhq_/ffhq__0821.png|dataset/ffhq__filter/ffhq__0821.png|0
+dataset/sgan1/sgan1_0893.png|dataset/sgan1_filter/sgan1_0893.png|2
+dataset/sgan2/sgan2_0401.png|dataset/sgan2_filter/sgan2_0401.png|3
+dataset/sgan1/sgan1_0808.png|dataset/sgan1_filter/sgan1_0808.png|2
+dataset/sgan2/sgan2_0703.png|dataset/sgan2_filter/sgan2_0703.png|3
+dataset/pgan_/pgan__0228.png|dataset/pgan__filter/pgan__0228.png|1
+dataset/ffhq_/ffhq__0663.png|dataset/ffhq__filter/ffhq__0663.png|0
+dataset/ffhq_/ffhq__0073.png|dataset/ffhq__filter/ffhq__0073.png|0
+dataset/sgan1/sgan1_0840.png|dataset/sgan1_filter/sgan1_0840.png|2
+dataset/pgan_/pgan__0373.png|dataset/pgan__filter/pgan__0373.png|1
+dataset/ffhq_/ffhq__0052.png|dataset/ffhq__filter/ffhq__0052.png|0
+dataset/ffhq_/ffhq__0365.png|dataset/ffhq__filter/ffhq__0365.png|0
+dataset/sgan2/sgan2_0585.png|dataset/sgan2_filter/sgan2_0585.png|3
+dataset/ffhq_/ffhq__0795.png|dataset/ffhq__filter/ffhq__0795.png|0
+dataset/sgan2/sgan2_0259.png|dataset/sgan2_filter/sgan2_0259.png|3
+dataset/sgan1/sgan1_0970.png|dataset/sgan1_filter/sgan1_0970.png|2
+dataset/ffhq_/ffhq__0495.png|dataset/ffhq__filter/ffhq__0495.png|0
+dataset/ffhq_/ffhq__0267.png|dataset/ffhq__filter/ffhq__0267.png|0
+dataset/sgan1/sgan1_0975.png|dataset/sgan1_filter/sgan1_0975.png|2
+dataset/sgan1/sgan1_0410.png|dataset/sgan1_filter/sgan1_0410.png|2
+dataset/sgan1/sgan1_0708.png|dataset/sgan1_filter/sgan1_0708.png|2
+dataset/pgan_/pgan__0887.png|dataset/pgan__filter/pgan__0887.png|1
+dataset/sgan2/sgan2_0661.png|dataset/sgan2_filter/sgan2_0661.png|3
+dataset/ffhq_/ffhq__0813.png|dataset/ffhq__filter/ffhq__0813.png|0
+dataset/sgan1/sgan1_0347.png|dataset/sgan1_filter/sgan1_0347.png|2
+dataset/ffhq_/ffhq__0927.png|dataset/ffhq__filter/ffhq__0927.png|0
+dataset/sgan1/sgan1_0433.png|dataset/sgan1_filter/sgan1_0433.png|2
+dataset/pgan_/pgan__0081.png|dataset/pgan__filter/pgan__0081.png|1
+dataset/sgan2/sgan2_0056.png|dataset/sgan2_filter/sgan2_0056.png|3
+dataset/sgan1/sgan1_0694.png|dataset/sgan1_filter/sgan1_0694.png|2
+dataset/ffhq_/ffhq__0322.png|dataset/ffhq__filter/ffhq__0322.png|0
+dataset/pgan_/pgan__0925.png|dataset/pgan__filter/pgan__0925.png|1
+dataset/pgan_/pgan__0097.png|dataset/pgan__filter/pgan__0097.png|1
+dataset/ffhq_/ffhq__0766.png|dataset/ffhq__filter/ffhq__0766.png|0
+dataset/sgan2/sgan2_0439.png|dataset/sgan2_filter/sgan2_0439.png|3
+dataset/sgan2/sgan2_0915.png|dataset/sgan2_filter/sgan2_0915.png|3
+dataset/ffhq_/ffhq__0690.png|dataset/ffhq__filter/ffhq__0690.png|0
+dataset/pgan_/pgan__0297.png|dataset/pgan__filter/pgan__0297.png|1
+dataset/sgan2/sgan2_0364.png|dataset/sgan2_filter/sgan2_0364.png|3
+dataset/pgan_/pgan__0112.png|dataset/pgan__filter/pgan__0112.png|1
+dataset/ffhq_/ffhq__0502.png|dataset/ffhq__filter/ffhq__0502.png|0
+dataset/sgan2/sgan2_0294.png|dataset/sgan2_filter/sgan2_0294.png|3
+dataset/sgan2/sgan2_0930.png|dataset/sgan2_filter/sgan2_0930.png|3
+dataset/sgan2/sgan2_0772.png|dataset/sgan2_filter/sgan2_0772.png|3
+dataset/sgan1/sgan1_0266.png|dataset/sgan1_filter/sgan1_0266.png|2
+dataset/ffhq_/ffhq__0504.png|dataset/ffhq__filter/ffhq__0504.png|0
+dataset/sgan2/sgan2_0502.png|dataset/sgan2_filter/sgan2_0502.png|3
+dataset/sgan1/sgan1_0776.png|dataset/sgan1_filter/sgan1_0776.png|2
