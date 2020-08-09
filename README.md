@@ -16,7 +16,7 @@ For the dataset we used 4 dataset:
 Use this model to generate the dataset or you can use the availalbe from their github repos.
 
 Direectory Structure  for dataset
-` dataset-|---- /ffhq_/ -|- ffhq__0000.png
+``` dataset-|---- /ffhq_/ -|- ffhq__0000.png
 		  |			     |- ffhq__0001.png
 		  |			     .
 		  |			     .
@@ -56,9 +56,10 @@ Direectory Structure  for dataset
 		  			     		|- sgan2_0002.png
 	   			     			.
 	   			     			.
-	   			     			`
+	   			     			
+```
 
-![Sample imaaage from the dataset](/datset/Slide1.PNG)
+![Sample imaaage from the dataset](/dataset/Slide1.PNG)
 
 Rename and sace the files according to the above directory structure.
 
