@@ -79,7 +79,7 @@ Run `python filter.py` to generate the SRM filter images.
 
 ## Training using a pre-trained model
 Training using a pre-trained model can lead to faster convergence  
-1. `python train.py --output_directory=outdir --log_directory=logdir -c tacotron2_statedict.pt `
+1. `python train.py --output_directory=outdir --log_directory=logdir -c checkpoint_path`
 
 
 ## Inference demo
