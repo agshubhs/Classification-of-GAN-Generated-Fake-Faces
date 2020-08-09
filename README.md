@@ -9,13 +9,13 @@ PyTorch implementation for Classification of GAN generated Fake Faces using SRM 
 ##Dataset
 For the dataset we used 4 dataset:
 1. FFHQ Dataset
-2. Synthetic imagges generated from [PROGAN](https://github.com/tkarras/progressive_growing_of_gans) Network.
-3. Synthetic imagges generated from [StyleGAN 1](https://github.com/NVlabs/stylegan) Network.
-4. Synthetic imagges generated from [StyleGAN 2](https://github.com/NVlabs/stylegan2) Network.
+2. Synthetic images generated from [PROGAN](https://github.com/tkarras/progressive_growing_of_gans) Network.
+3. Synthetic images generated from [StyleGAN 1](https://github.com/NVlabs/stylegan) Network.
+4. Synthetic images generated from [StyleGAN 2](https://github.com/NVlabs/stylegan2) Network.
 
 Use this model to generate the dataset or you can use the availalbe from their github repos.
 
-Direectory Structure  for dataset
+Directory Structure  for dataset
 ``` 
 dataset-|---- /ffhq_/ -|- ffhq__0000.png
 		  |			     |- ffhq__0001.png
@@ -60,11 +60,11 @@ dataset-|---- /ffhq_/ -|- ffhq__0000.png
 	   			     			
 ```
 
-![Sample imaaage from the dataset](/dataset/Slide1.PNG)
+![Sample imaage from the dataset](/dataset/Slide1.PNG)
 
-Rename and sace the files according to the above directory structure.
+Rename and save the files according to the above directory structure.
 
-Run `python filter.py` to generate the SDRM filter images.
+Run `python filter.py` to generate the SRM filter images.
 
 ## Setup
 1. Clone this repo: `git clone https://github.com/Shubhanshu07/Classification-of-GAN-Generated-Fake-Faces.git`
