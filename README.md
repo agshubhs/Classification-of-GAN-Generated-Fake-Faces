@@ -8,7 +8,7 @@ PyTorch implementation for Classification of GAN generated Fake Faces using SRM 
 
 ##Dataset
 For the dataset we used 4 dataset:
-1. FFHQ DAtAset
+1. FFHQ Dataset
 2. Synthetic imagges generated from [PROGAN](https://github.com/tkarras/progressive_growing_of_gans) Network.
 3. Synthetic imagges generated from [StyleGAN 1](https://github.com/NVlabs/stylegan) Network.
 4. Synthetic imagges generated from [StyleGAN 2](https://github.com/NVlabs/stylegan2) Network.
@@ -68,7 +68,7 @@ Run `python filter.py` to generate the SDRM filter images.
 
 ## Setup
 1. Clone this repo: `git clone https://github.com/Shubhanshu07/Classification-of-GAN-Generated-Fake-Faces.git`
-2. CD into this repo: `cd Classification-of-GAN-Generated-Fake-Faces.git`
+2. CD into this repo: `cd Classification-of-GAN-Generated-Fake-Faces`
 3. Install [PyTorch 1.0]
 4. Install python requirements or build docker image 
     - Install python requirements: `pip install -r requirements.txt`
@@ -79,10 +79,7 @@ Run `python filter.py` to generate the SDRM filter images.
 
 ## Training using a pre-trained model
 Training using a pre-trained model can lead to faster convergence  
-By default, the dataset dependent text embedding layers are [ignored]
-
-1. Download our published [Tacotron 2] model
-2. `python train.py --output_directory=outdir --log_directory=logdir -c tacotron2_statedict.pt `
+1. `python train.py --output_directory=outdir --log_directory=logdir -c tacotron2_statedict.pt `
 
 
 ## Inference demo
@@ -91,7 +88,8 @@ By default, the dataset dependent text embedding layers are [ignored]
 
 
 ## Acknowledgements
+<P  align ="justify">
 This project is done as a part of B. Tech. Project under the guidance of Professor Vinod Panjakshan, Department of Electronics and Communication Engineering, Indian Institute of Technology, Roorkee. 
 We want to extend our heartiest thanks to our supervisor Professor Vinod Pankajakshan for providing us an opportunity to work on this challenging project. His support and continued motivation helped us to gain insight into various aspects of research and development. We would never have been able to complete our work without our supervisors’ guidance, help from friends, and support from our families and loved ones. Last but not least, we thank God/Nature from the inner part of the soul who made all the things possible.
-
+</P>
 
