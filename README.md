@@ -16,7 +16,8 @@ For the dataset we used 4 dataset:
 Use this model to generate the dataset or you can use the availalbe from their github repos.
 
 Direectory Structure  for dataset
-``` dataset-|---- /ffhq_/ -|- ffhq__0000.png
+``` 
+dataset-|---- /ffhq_/ -|- ffhq__0000.png
 		  |			     |- ffhq__0001.png
 		  |			     .
 		  |			     .
